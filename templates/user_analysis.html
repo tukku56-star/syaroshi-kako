@@ -17,6 +17,7 @@
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
             padding: 20px;
+            color: #374151;
         }
 
         .container {
@@ -52,18 +53,50 @@
             display: inline-block;
         }
 
+        /* Tabs */
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+            font-size: 16px;
+        }
+
+        .tab-btn.active {
+            background: white;
+            color: #764ba2;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .tab-btn:hover:not(.active) {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Search Section */
         .search-section {
             background: white;
             padding: 30px;
             border-radius: 12px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
-        }
-
-        .search-section h2 {
-            font-size: 18px;
-            color: #374151;
-            margin-bottom: 15px;
         }
 
         .search-group {
@@ -79,11 +112,6 @@
             font-size: 14px;
         }
 
-        .search-group input:focus {
-            outline: none;
-            border-color: #667eea;
-        }
-
         .search-group button {
             padding: 12px 30px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -92,27 +120,27 @@
             border-radius: 8px;
             font-weight: 600;
             cursor: pointer;
-            transition: transform 0.2s;
         }
 
-        .search-group button:hover {
-            transform: translateY(-2px);
-        }
-
+        /* Results Grid */
         .results {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 20px;
         }
 
-        .profile-card {
+        .card {
             background: white;
             padding: 25px;
             border-radius: 12px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
-        .profile-card h3 {
+        .full-width {
+            grid-column: 1 / -1;
+        }
+
+        h3 {
             font-size: 18px;
             color: #764ba2;
             margin-bottom: 20px;
@@ -121,26 +149,12 @@
             gap: 10px;
         }
 
+        /* Stats & Lists */
         .stat {
             display: flex;
             justify-content: space-between;
             padding: 12px 0;
             border-bottom: 1px solid #f3f4f6;
-        }
-
-        .stat:last-child {
-            border-bottom: none;
-        }
-
-        .stat-label {
-            color: #6b7280;
-            font-size: 14px;
-        }
-
-        .stat-value {
-            color: #374151;
-            font-weight: 600;
-            font-size: 14px;
         }
 
         .username-badges {
@@ -151,18 +165,73 @@
         }
 
         .username-badge {
-            padding: 6px 12px;
+            padding: 4px 10px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border-radius: 20px;
-            font-size: 13px;
+            font-size: 12px;
         }
 
-        .messages-card {
-            background: white;
-            padding: 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        /* Ranking Table */
+        .ranking-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .ranking-table th,
+        .ranking-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .ranking-table th {
+            background: #f9fafb;
+            color: #6b7280;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .rank-num {
+            font-weight: bold;
+            color: #764ba2;
+            width: 50px;
+        }
+
+        .rank-1 {
+            color: #fbbf24;
+            font-size: 1.2em;
+        }
+
+        .rank-2 {
+            color: #9ca3af;
+            font-size: 1.1em;
+        }
+
+        .rank-3 {
+            color: #b45309;
+            font-size: 1.1em;
+        }
+
+        /* Suspicious List */
+        .suspicious-item {
+            padding: 15px;
+            background: #fff1f2;
+            border: 1px solid #fecdd3;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .suspicious-header {
+            display: flex;
+            justify-content: space-between;
+            color: #be123c;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        /* Messages */
+        .messages-list {
             max-height: 600px;
             overflow-y: auto;
         }
@@ -178,45 +247,35 @@
         .message-header {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 8px;
+            margin-bottom: 5px;
+            font-size: 13px;
         }
 
         .message-user {
-            font-weight: 600;
+            font-weight: bold;
             color: #764ba2;
         }
 
-        .message-room {
-            font-size: 12px;
-            color: #9ca3af;
-        }
-
-        .message-content {
-            color: #374151;
-            line-height: 1.6;
-        }
-
         .message-time {
-            font-size: 11px;
             color: #9ca3af;
-            margin-top: 5px;
         }
 
-        .loading {
+        .loading,
+        .empty-state {
             text-align: center;
             padding: 40px;
             color: #6b7280;
         }
 
-        .empty-state {
-            text-align: center;
-            padding: 60px 20px;
-            color: #9ca3af;
+        .uid-link {
+            color: #667eea;
+            text-decoration: none;
+            cursor: pointer;
+            font-family: monospace;
         }
 
-        .empty-state-icon {
-            font-size: 48px;
-            margin-bottom: 15px;
+        .uid-link:hover {
+            text-decoration: underline;
         }
 
         @media (max-width: 768px) {
@@ -230,75 +289,244 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>👤 ユーザー分析</h1>
+            <h1>👤 ユーザー分析ダッシュボード</h1>
             <a href="/" class="back-btn">← 部屋リストに戻る</a>
         </div>
-        <div class="search-section">
-            <h2>ユーザーID (UID) で検索</h2>
-            <div class="search-group">
-                <input type="text" id="uidInput" placeholder="UID を入力してください... (例: 2ca2aeba8a28a68120ff9d234d1ff0ae)">
-                <button onclick="searchUser()">🔍 検索</button>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('search')">🔍 検索</button>
+            <button class="tab-btn" onclick="switchTab('ranking')">👑 ランキング</button>
+            <button class="tab-btn" onclick="switchTab('insights')">⚠️ インサイト</button>
+        </div>
+
+        <!-- Search Tab -->
+        <div id="search" class="tab-content active">
+            <div class="search-section">
+                <h2>ユーザーID (UID) で検索</h2>
+                <div class="search-group">
+                    <input type="text" id="uidInput" placeholder="UID を入力してください... (例: 2ca2aeba...)">
+                    <button onclick="searchUser()">検索</button>
+                </div>
+            </div>
+            <div class="results" id="searchResults">
+                <div class="empty-state">
+                    <p>UIDを入力して検索してください</p>
+                </div>
             </div>
         </div>
-        <div class="results" id="results">
-            <div class="empty-state">
-                <div class="empty-state-icon">👆</div>
-                <p>上記の検索ボックスにUIDを入力してください</p>
-                <p style="font-size: 12px; margin-top: 10px;">メッセージからUIDをコピーして検索できます</p>
+
+        <!-- Ranking Tab -->
+        <div id="ranking" class="tab-content">
+            <div class="card full-width">
+                <h3>👑 発言数ランキング (TOP 100)</h3>
+                <div id="rankingList" class="loading">読み込み中...</div>
+            </div>
+        </div>
+
+        <!-- Insights Tab -->
+        <div id="insights" class="tab-content">
+            <div class="results">
+                <div class="card">
+                    <h3>🎭 頻繁な名前変更</h3>
+                    <div id="nameChangesList" class="loading">読み込み中...</div>
+                </div>
+                <div class="card">
+                    <h3>🌐 同一IP共有ユーザー</h3>
+                    <div id="ipSharedList" class="loading">読み込み中...</div>
+                </div>
             </div>
         </div>
     </div>
+
     <script>
-        async function searchUser() {
-            const uid = document.getElementById('uidInput').value.trim();
-            if (!uid) { alert('UIDを入力してください'); return; }
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = '<div class="loading">🔄 読み込み中...</div>';
+        // Tab Switching
+        function switchTab(tabId) {
+            document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+
+            document.getElementById(tabId).classList.add('active');
+            event.target.classList.add('active');
+
+            if (tabId === 'ranking') loadRanking();
+            if (tabId === 'insights') loadInsights();
+        }
+
+        // Search Function
+        async function searchUser(uid = null) {
+            if (uid) {
+                document.getElementById('uidInput').value = uid;
+                switchTab('search');
+            } else {
+                uid = document.getElementById('uidInput').value.trim();
+            }
+
+            if (!uid) return alert('UIDを入力してください');
+
+            const container = document.getElementById('searchResults');
+            container.innerHTML = '<div class="loading">🔄 読み込み中...</div>';
+
             try {
-                const profileRes = await fetch(location.origin + '/api/user/' + uid + '/profile');
-                const profile = await profileRes.json();
-                const messagesRes = await fetch(location.origin + '/api/user/' + uid + '/messages');
-                const messages = await messagesRes.json();
-                displayResults(profile, messages);
-            } catch (error) {
-                console.error('Error:', error);
-                resultsDiv.innerHTML = '<div class="empty-state"><div class="empty-state-icon">❌</div><p>エラーが発生しました</p><p style="font-size: 12px; margin-top: 10px;">' + error.message + '</p></div>';
+                const [profile, messages] = await Promise.all([
+                    fetch(`/api/user/${uid}/profile`).then(r => r.json()),
+                    fetch(`/api/user/${uid}/messages`).then(r => r.json())
+                ]);
+
+                if (profile.message_count === 0) {
+                    container.innerHTML = '<div class="empty-state">データが見つかりませんでした</div>';
+                    return;
+                }
+
+                const profileHTML = `
+                    <div class="card">
+                        <h3>📊 プロファイル</h3>
+                        <div class="stat"><span class="stat-label">UID</span><span class="stat-value" style="font-family:monospace">${profile.uid}</span></div>
+                        <div class="stat"><span class="stat-label">総発言数</span><span class="stat-value">${profile.message_count}</span></div>
+                        <div class="stat"><span class="stat-label">使用した名前</span><span class="stat-value">${profile.usernames.length}個</span></div>
+                        <div class="username-badges">
+                            ${profile.usernames.map(n => `<span class="username-badge">${escapeHtml(n)}</span>`).join('')}
+                        </div>
+                        <div class="stat" style="margin-top:15px"><span class="stat-label">訪問部屋数</span><span class="stat-value">${profile.rooms.length}</span></div>
+                        <div class="stat"><span class="stat-label">初回観測</span><span class="stat-value">${formatDate(profile.first_seen)}</span></div>
+                        <div class="stat"><span class="stat-label">最終観測</span><span class="stat-value">${formatDate(profile.last_seen)}</span></div>
+                    </div>
+                `;
+
+                const messagesHTML = `
+                    <div class="card">
+                        <h3>💬 最新メッセージ (${messages.length}件)</h3>
+                        <div class="messages-list">
+                            ${messages.map(m => `
+                                <div class="message-item">
+                                    <div class="message-header">
+                                        <span class="message-user">${escapeHtml(m.name)}</span>
+                                        <span class="message-time">${formatDate(m.time)}</span>
+                                    </div>
+                                    <div style="font-size:12px; color:#6b7280; margin-bottom:5px">📍 ${escapeHtml(m.room_name)}</div>
+                                    <div>${escapeHtml(m.message)}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+
+                container.innerHTML = profileHTML + messagesHTML;
+
+            } catch (e) {
+                container.innerHTML = `<div class="empty-state">エラー: ${e.message}</div>`;
             }
         }
-        function displayResults(profile, messages) {
-            const resultsDiv = document.getElementById('results');
-            if (profile.message_count === 0) {
-                resultsDiv.innerHTML = '<div class="empty-state"><div class="empty-state-icon">🔍</div><p>このUIDのデータが見つかりませんでした</p></div>';
-                return;
+
+        // Load Ranking
+        async function loadRanking() {
+            const container = document.getElementById('rankingList');
+            try {
+                const data = await fetch('/api/analysis/ranking').then(r => r.json());
+
+                if (data.length === 0) {
+                    container.innerHTML = '<div class="empty-state">データがありません</div>';
+                    return;
+                }
+
+                let html = `
+                    <table class="ranking-table">
+                        <thead>
+                            <tr>
+                                <th>順位</th>
+                                <th>名前 (代表)</th>
+                                <th>発言数</th>
+                                <th>最終観測</th>
+                                <th>UID</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                `;
+
+                data.forEach((user, index) => {
+                    const rankClass = index < 3 ? `rank-${index + 1}` : '';
+                    html += `
+                        <tr>
+                            <td class="rank-num ${rankClass}">${index + 1}</td>
+                            <td>
+                                <strong>${escapeHtml(user.name)}</strong>
+                                <div style="font-size:11px; color:#9ca3af">${user.all_names.length > 1 ? `他 ${user.all_names.length - 1}個の名前` : ''}</div>
+                            </td>
+                            <td>${user.count}</td>
+                            <td>${formatDate(user.last_seen)}</td>
+                            <td><a href="#" class="uid-link" onclick="searchUser('${user.uid}')">${user.uid.substring(0, 8)}...</a></td>
+                        </tr>
+                    `;
+                });
+
+                html += '</tbody></table>';
+                container.innerHTML = html;
+
+            } catch (e) {
+                container.innerHTML = `エラー: ${e.message}`;
             }
-            const profileHTML = '<div class="profile-card"><h3>📊 プロファイル</h3>' +
-                '<div class="stat"><span class="stat-label">UID</span><span class="stat-value" style="font-size: 11px; font-family: monospace;">' + profile.uid + '</span></div>' +
-                '<div class="stat"><span class="stat-label">総メッセージ数</span><span class="stat-value">' + profile.message_count + '</span></div>' +
-                '<div class="stat"><span class="stat-label">使用した名前</span><span class="stat-value">' + profile.usernames.length + '個</span></div>' +
-                '<div class="username-badges">' + profile.usernames.map(name => '<div class="username-badge">' + escapeHtml(name) + '</div>').join('') + '</div>' +
-                '<div class="stat" style="margin-top: 15px;"><span class="stat-label">訪問した部屋</span><span class="stat-value">' + profile.rooms.length + '部屋</span></div>' +
-                '<div style="margin-top: 10px; font-size: 13px; color: #6b7280;">' + profile.rooms.map(room => '• ' + escapeHtml(room.name || '無名')).join('<br>') + '</div>' +
-                '<div class="stat" style="margin-top: 15px;"><span class="stat-label">初回観測</span><span class="stat-value">' + formatDateTime(profile.first_seen) + '</span></div>' +
-                '<div class="stat"><span class="stat-label">最終観測</span><span class="stat-value">' + formatDateTime(profile.last_seen) + '</span></div>' +
-                '</div>';
-            const messagesHTML = '<div class="messages-card"><h3>💬 メッセージ履歴 (' + messages.length + '件)</h3>' +
-                messages.map(msg => '<div class="message-item"><div class="message-header"><span class="message-user">' + escapeHtml(msg.name) + '</span>' +
-                    '<span class="message-room">📍 ' + escapeHtml(msg.room_name || '不明') + '</span></div>' +
-                    '<div class="message-content">' + escapeHtml(msg.message) + '</div>' +
-                    '<div class="message-time">' + formatDateTime(msg.time) + '</div></div>').join('') +
-                '</div>';
-            resultsDiv.innerHTML = profileHTML + messagesHTML;
         }
+
+        // Load Insights
+        async function loadInsights() {
+            // Suspicious Users
+            const nameContainer = document.getElementById('nameChangesList');
+            fetch('/api/analysis/suspicious').then(r => r.json()).then(data => {
+                if (data.length === 0) {
+                    nameContainer.innerHTML = '<div class="empty-state">該当なし</div>';
+                    return;
+                }
+                nameContainer.innerHTML = data.map(u => `
+                    <div class="suspicious-item">
+                        <div class="suspicious-header">
+                            <span>頻繁な名前変更 (${u.names.length}回)</span>
+                            <a href="#" class="uid-link" onclick="searchUser('${u.uid}')">詳細</a>
+                        </div>
+                        <div class="username-badges">
+                            ${u.names.map(n => `<span class="username-badge" style="background:#be123c">${escapeHtml(n)}</span>`).join('')}
+                        </div>
+                    </div>
+                `).join('');
+            });
+
+            // IP Sharing
+            const ipContainer = document.getElementById('ipSharedList');
+            fetch('/api/analysis/ip').then(r => r.json()).then(data => {
+                if (data.length === 0) {
+                    ipContainer.innerHTML = '<div class="empty-state">該当なし</div>';
+                    return;
+                }
+                ipContainer.innerHTML = data.map(ip => `
+                    <div class="suspicious-item" style="background:#eff6ff; border-color:#bfdbfe">
+                        <div class="suspicious-header" style="color:#1d4ed8">
+                            <span>IP共有 (${ip.count}人)</span>
+                            <span style="font-family:monospace">${ip.ip}</span>
+                        </div>
+                        <div style="margin-top:5px">
+                            ${ip.users.map(u => `
+                                <div style="display:flex; justify-content:space-between; font-size:13px; padding:4px 0; border-bottom:1px dashed #bfdbfe">
+                                    <span>${escapeHtml(u.name)}</span>
+                                    <a href="#" class="uid-link" onclick="searchUser('${u.uid}')">${u.uid.substring(0, 8)}...</a>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `).join('');
+            });
+        }
+
+        // Utils
         function escapeHtml(text) {
+            if (!text) return '';
             const div = document.createElement('div');
             div.textContent = text;
             return div.innerHTML;
         }
-        function formatDateTime(timestamp) {
-            if (!timestamp) return '不明';
-            const date = new Date(timestamp * 1000);
-            return date.toLocaleString('ja-JP');
+
+        function formatDate(ts) {
+            if (!ts) return '-';
+            return new Date(ts * 1000).toLocaleString('ja-JP');
         }
+
+        // Init
         document.getElementById('uidInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') searchUser();
         });
