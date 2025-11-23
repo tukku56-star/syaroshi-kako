@@ -153,10 +153,10 @@ class RoomFinder:
                                 await asyncio.sleep(2)
                                 return False
                             
-                            # Wait for chat room to load
+                            # Wait for chat room to load (increased timeout for slow connections)
                             logger.info(f"[{bot_name}] Waiting for #talks...")
                             try:
-                                await page.wait_for_selector("#talks", timeout=10000)
+                                await page.wait_for_selector("#talks", timeout=20000)
                                 logger.info(f"[{bot_name}] Successfully entered room {room_id}")
                                 return True
                             except Exception as e:
