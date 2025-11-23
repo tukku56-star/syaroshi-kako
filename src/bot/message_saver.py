@@ -50,6 +50,7 @@ class MessageSaver:
                     logger.error(f"[{bot_name}] Error loading existing file: {e}")
             
             # Extract data from AJAX response
+            host_uid = data.get('host', '')
             hostip = data.get('hostip', '')
             talks = data.get('talks', [])
             users = data.get('users', {})
@@ -100,9 +101,14 @@ class MessageSaver:
                 uid = talk_data.get('uid', '')
                 user_info = user_dict.get(uid, {})
                 
-                # Determine encip (use hostip ONLY if we are sure, but for now just trust the message/user data)
-                # defaulting to hostip for everyone is incorrect as pointed out by user
+                # Determine encip
+                # 1. Try to get from message data
+                # 2. Try to get from user info
+                # 3. If empty AND user is host, use hostip
                 encip = talk_data.get('encip', user_info.get('encip', ''))
+                
+                if not encip and uid == host_uid and hostip:
+                    encip = hostip
                 
                 # Create message entry
                 msg_entry = {
