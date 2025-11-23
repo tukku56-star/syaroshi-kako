@@ -329,7 +329,28 @@ def api_analysis_suspicious():
 
 @app.route('/api/analysis/ranking')
 def api_analysis_ranking():
-    """Get top active users by message count (UID based)"""
+    """Get top active users by message count (UID based) with optional date filtering"""
+    start_date_str = request.args.get('start')
+    end_date_str = request.args.get('end')
+    
+    start_ts = 0
+    end_ts = float('inf')
+    
+    if start_date_str:
+        try:
+            start_dt = datetime.strptime(start_date_str, '%Y-%m-%d')
+            start_ts = start_dt.timestamp()
+        except:
+            pass
+            
+    if end_date_str:
+        try:
+            # End date should be inclusive, so set to end of that day
+            end_dt = datetime.strptime(end_date_str, '%Y-%m-%d') + timedelta(days=1)
+            end_ts = end_dt.timestamp()
+        except:
+            pass
+
     user_stats = defaultdict(lambda: {'count': 0, 'names': set(), 'last_seen': 0})
     
     for room_id, room_data in rooms_cache.items():
@@ -339,31 +360,41 @@ def api_analysis_ranking():
                 data = json.load(f)
             
             for msg in data.get('messages', []):
+                # Determine message time
+                msg_time = msg.get('time', 0)
+                captured_at = msg.get('captured_at')
+                
+                # Use captured_at if available for more precision, otherwise msg_time
+                current_ts = msg_time
+                if captured_at:
+                    try:
+                        current_ts = datetime.fromisoformat(captured_at).timestamp()
+                    except:
+                        pass
+                
+                # Filter by date range
+                if current_ts < start_ts or current_ts >= end_ts:
+                    continue
+
                 uid = msg.get('uid')
                 name = msg.get('name')
-                captured_at = msg.get('captured_at')
                 
                 if uid:
                     user_stats[uid]['count'] += 1
                     if name:
                         user_stats[uid]['names'].add(name)
                     
-                    # Track last seen time
-                    try:
-                        if captured_at:
-                            dt = datetime.fromisoformat(captured_at).timestamp()
-                            if dt > user_stats[uid]['last_seen']:
-                                user_stats[uid]['last_seen'] = dt
-                    except:
-                        pass
+                    if current_ts > user_stats[uid]['last_seen']:
+                        user_stats[uid]['last_seen'] = current_ts
         except:
             continue
             
     # Convert to list and sort
     ranking = []
     for uid, stats in user_stats.items():
-        # Determine primary name (most recently used or most frequent ideally, but simple set here)
-        # For display, we'll just join them or pick one
+        if stats['count'] == 0:
+            continue
+            
         names_list = list(stats['names'])
         primary_name = names_list[0] if names_list else "Unknown"
         
