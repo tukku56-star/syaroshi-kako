@@ -329,9 +329,10 @@ def api_analysis_suspicious():
 
 @app.route('/api/analysis/ranking')
 def api_analysis_ranking():
-    """Get top active users by message count (UID based) with optional date filtering"""
+    """Get top active users by message count (UID or encip based) with optional date filtering"""
     start_date_str = request.args.get('start')
     end_date_str = request.args.get('end')
+    group_by = request.args.get('type', 'uid')  # 'uid' or 'encip'
     
     start_ts = 0
     end_ts = float('inf')
@@ -351,7 +352,8 @@ def api_analysis_ranking():
         except:
             pass
 
-    user_stats = defaultdict(lambda: {'count': 0, 'names': set(), 'last_seen': 0})
+    # stats structure: key -> {count, names, last_seen, uids(if encip mode), encips(if uid mode)}
+    stats_map = defaultdict(lambda: {'count': 0, 'names': set(), 'last_seen': 0, 'related_ids': set()})
     
     for room_id, room_data in rooms_cache.items():
         filepath = room_data['filepath']
@@ -377,34 +379,51 @@ def api_analysis_ranking():
                     continue
 
                 uid = msg.get('uid')
+                encip = msg.get('encip')
                 name = msg.get('name')
                 
-                if uid:
-                    user_stats[uid]['count'] += 1
+                key = None
+                related_id = None
+                
+                if group_by == 'encip':
+                    if encip:
+                        key = encip
+                        related_id = uid
+                else:
+                    if uid:
+                        key = uid
+                        related_id = encip
+                
+                if key:
+                    stats_map[key]['count'] += 1
                     if name:
-                        user_stats[uid]['names'].add(name)
+                        stats_map[key]['names'].add(name)
+                    if related_id:
+                        stats_map[key]['related_ids'].add(related_id)
                     
-                    if current_ts > user_stats[uid]['last_seen']:
-                        user_stats[uid]['last_seen'] = current_ts
+                    if current_ts > stats_map[key]['last_seen']:
+                        stats_map[key]['last_seen'] = current_ts
         except:
             continue
             
     # Convert to list and sort
     ranking = []
-    for uid, stats in user_stats.items():
+    for key, stats in stats_map.items():
         if stats['count'] == 0:
             continue
             
         names_list = list(stats['names'])
         primary_name = names_list[0] if names_list else "Unknown"
         
-        ranking.append({
-            'uid': uid,
+        entry = {
+            'id': key, # uid or encip
             'name': primary_name,
             'all_names': names_list,
             'count': stats['count'],
-            'last_seen': stats['last_seen']
-        })
+            'last_seen': stats['last_seen'],
+            'related_ids': list(stats['related_ids']) # encips or uids
+        }
+        ranking.append(entry)
         
     # Sort by count descending
     ranking.sort(key=lambda x: x['count'], reverse=True)
