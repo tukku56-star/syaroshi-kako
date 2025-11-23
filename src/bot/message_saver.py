@@ -92,10 +92,9 @@ class MessageSaver:
                 uid = talk_data.get('uid', '')
                 user_info = user_dict.get(uid, {})
                 
-                # Determine encip (use hostip if empty and available)
+                # Determine encip (use hostip ONLY if we are sure, but for now just trust the message/user data)
+                # defaulting to hostip for everyone is incorrect as pointed out by user
                 encip = talk_data.get('encip', user_info.get('encip', ''))
-                if not encip and hostip:
-                    encip = hostip
                 
                 # Create message entry
                 msg_entry = {
