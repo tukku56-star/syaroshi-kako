@@ -329,10 +329,10 @@ def api_analysis_suspicious():
 
 @app.route('/api/analysis/ranking')
 def api_analysis_ranking():
-    """Get top active users by message count (UID or encip based) with optional date filtering"""
+    """Get top active users by message count (UID, encip, or trip based) with optional date filtering"""
     start_date_str = request.args.get('start')
     end_date_str = request.args.get('end')
-    group_by = request.args.get('type', 'uid')  # 'uid' or 'encip'
+    group_by = request.args.get('type', 'uid')  # 'uid', 'encip', 'trip'
     
     start_ts = 0
     end_ts = float('inf')
@@ -352,7 +352,7 @@ def api_analysis_ranking():
         except:
             pass
 
-    # stats structure: key -> {count, names, last_seen, uids(if encip mode), encips(if uid mode)}
+    # stats structure: key -> {count, names, last_seen, related_ids}
     stats_map = defaultdict(lambda: {'count': 0, 'names': set(), 'last_seen': 0, 'related_ids': set()})
     
     for room_id, room_data in rooms_cache.items():
@@ -380,6 +380,7 @@ def api_analysis_ranking():
 
                 uid = msg.get('uid')
                 encip = msg.get('encip')
+                trip = msg.get('trip')
                 name = msg.get('name')
                 
                 key = None
@@ -388,6 +389,10 @@ def api_analysis_ranking():
                 if group_by == 'encip':
                     if encip:
                         key = encip
+                        related_id = uid
+                elif group_by == 'trip':
+                    if trip:
+                        key = trip
                         related_id = uid
                 else:
                     if uid:
@@ -416,12 +421,12 @@ def api_analysis_ranking():
         primary_name = names_list[0] if names_list else "Unknown"
         
         entry = {
-            'id': key, # uid or encip
+            'id': key, # uid, encip, or trip
             'name': primary_name,
             'all_names': names_list,
             'count': stats['count'],
             'last_seen': stats['last_seen'],
-            'related_ids': list(stats['related_ids']) # encips or uids
+            'related_ids': list(stats['related_ids'])
         }
         ranking.append(entry)
         
@@ -433,7 +438,7 @@ def api_analysis_ranking():
 
 @app.route('/api/search')
 def api_search():
-    """Search users by UID or encip (partial match)"""
+    """Search users by UID, encip, or trip (partial match)"""
     query = request.args.get('q', '').strip()
     if not query or len(query) < 2:
         return jsonify([])
@@ -449,21 +454,25 @@ def api_search():
             for msg in data.get('messages', []):
                 uid = msg.get('uid', '')
                 encip = msg.get('encip', '')
+                trip = msg.get('trip', '')
                 name = msg.get('name', 'Unknown')
                 
                 # Check for partial match
-                if (query in uid) or (query in encip):
+                if (query in uid) or (query in encip) or (trip and query in trip):
                     if uid not in matches:
                         matches[uid] = {
                             'uid': uid,
                             'names': set(),
                             'encips': set(),
+                            'trips': set(),
                             'last_seen': 0
                         }
                     
                     matches[uid]['names'].add(name)
                     if encip:
                         matches[uid]['encips'].add(encip)
+                    if trip:
+                        matches[uid]['trips'].add(trip)
                         
                     # Track last seen
                     try:
@@ -484,6 +493,7 @@ def api_search():
             'uid': uid,
             'names': list(data['names']),
             'encips': list(data['encips']),
+            'trips': list(data['trips']),
             'last_seen': data['last_seen']
         })
         
