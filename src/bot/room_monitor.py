@@ -117,10 +117,13 @@ class RoomMonitor:
                             self.page,
                             occupied_rooms,
                             self.blacklist,
-                            self.bot_name
+                            self.bot_name,
+                            self.parent_bot  # Pass parent for room reservation
                         )
                         
                         if success:
+                            # Confirm successful entry
+                            await self.parent_bot.confirm_entry(room_id)
                             self.in_room = True
                             self.room_id = room_id
                             self.room_name = room_name

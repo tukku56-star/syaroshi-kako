@@ -25,18 +25,59 @@ class ParallelPatrolBot:
         self.playwright = None
         self.browser = None
         self.occupied_rooms = set()
+        self.reserved_rooms = set()  # Rooms being entered (prevents race conditions)
+        self.room_lock = asyncio.Lock()  # Thread-safe room operations
         
     def get_occupied_rooms(self):
-        """Get set of room IDs currently occupied by bots
+        """Get set of room IDs currently occupied or reserved by bots
         
         Returns:
-            set: Set of room IDs
+            set: Set of room IDs (includes both occupied and reserved)
         """
         rooms = set()
         for monitor in self.monitors:
             if monitor.in_room and monitor.room_id:
                 rooms.add(monitor.room_id)
+        # Include reserved rooms to prevent race conditions
+        rooms.update(self.reserved_rooms)
         return rooms
+    
+    async def reserve_room(self, room_id):
+        """Reserve a room before attempting entry (prevents duplicates)
+        
+        Args:
+            room_id: ID of the room to reserve
+            
+        Returns:
+            bool: True if reservation successful, False if already occupied/reserved
+        """
+        async with self.room_lock:
+            occupied = self.get_occupied_rooms()
+            if room_id in occupied:
+                return False
+            self.reserved_rooms.add(room_id)
+            logger.debug(f"Reserved room {room_id}")
+            return True
+    
+    async def release_reservation(self, room_id):
+        """Release a room reservation (called if entry fails)
+        
+        Args:
+            room_id: ID of the room to release
+        """
+        async with self.room_lock:
+            self.reserved_rooms.discard(room_id)
+            logger.debug(f"Released reservation for room {room_id}")
+    
+    async def confirm_entry(self, room_id):
+        """Confirm successful room entry (removes from reserved list)
+        
+        Args:
+            room_id: ID of the room entered
+        """
+        async with self.room_lock:
+            self.reserved_rooms.discard(room_id)
+            logger.debug(f"Confirmed entry to room {room_id}")
     
     async def start(self):
         """Start all bot monitors and status saving loop"""
