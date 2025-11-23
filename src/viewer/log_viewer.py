@@ -2,7 +2,7 @@ import os
 import json
 import threading
 import logging
-from flask import Flask, jsonify, Response
+from flask import Flask, jsonify, Response, request
 from flask_socketio import SocketIO, emit
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta
@@ -380,6 +380,67 @@ def api_analysis_ranking():
     
     # Return top 100
     return jsonify(ranking[:100])
+
+@app.route('/api/search')
+def api_search():
+    """Search users by UID or encip (partial match)"""
+    query = request.args.get('q', '').strip()
+    if not query or len(query) < 2:
+        return jsonify([])
+    
+    matches = {}
+    
+    for room_id, room_data in rooms_cache.items():
+        filepath = room_data['filepath']
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+            for msg in data.get('messages', []):
+                uid = msg.get('uid', '')
+                encip = msg.get('encip', '')
+                name = msg.get('name', 'Unknown')
+                
+                # Check for partial match
+                if (query in uid) or (query in encip):
+                    if uid not in matches:
+                        matches[uid] = {
+                            'uid': uid,
+                            'names': set(),
+                            'encips': set(),
+                            'last_seen': 0
+                        }
+                    
+                    matches[uid]['names'].add(name)
+                    if encip:
+                        matches[uid]['encips'].add(encip)
+                        
+                    # Track last seen
+                    try:
+                        captured_at = msg.get('captured_at')
+                        if captured_at:
+                            dt = datetime.fromisoformat(captured_at).timestamp()
+                            if dt > matches[uid]['last_seen']:
+                                matches[uid]['last_seen'] = dt
+                    except:
+                        pass
+        except:
+            continue
+    
+    # Format results
+    results = []
+    for uid, data in matches.items():
+        results.append({
+            'uid': uid,
+            'names': list(data['names']),
+            'encips': list(data['encips']),
+            'last_seen': data['last_seen']
+        })
+        
+    # Sort by last seen (newest first)
+    results.sort(key=lambda x: x['last_seen'], reverse=True)
+    
+    return jsonify(results[:50])  # Limit to 50 results
 
 @app.route('/api/export/<room_id>')
 def api_export_room(room_id):
