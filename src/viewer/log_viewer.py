@@ -327,6 +327,60 @@ def api_analysis_suspicious():
             
     return jsonify(suspicious_users)
 
+@app.route('/api/analysis/ranking')
+def api_analysis_ranking():
+    """Get top active users by message count (UID based)"""
+    user_stats = defaultdict(lambda: {'count': 0, 'names': set(), 'last_seen': 0})
+    
+    for room_id, room_data in rooms_cache.items():
+        filepath = room_data['filepath']
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+            for msg in data.get('messages', []):
+                uid = msg.get('uid')
+                name = msg.get('name')
+                captured_at = msg.get('captured_at')
+                
+                if uid:
+                    user_stats[uid]['count'] += 1
+                    if name:
+                        user_stats[uid]['names'].add(name)
+                    
+                    # Track last seen time
+                    try:
+                        if captured_at:
+                            dt = datetime.fromisoformat(captured_at).timestamp()
+                            if dt > user_stats[uid]['last_seen']:
+                                user_stats[uid]['last_seen'] = dt
+                    except:
+                        pass
+        except:
+            continue
+            
+    # Convert to list and sort
+    ranking = []
+    for uid, stats in user_stats.items():
+        # Determine primary name (most recently used or most frequent ideally, but simple set here)
+        # For display, we'll just join them or pick one
+        names_list = list(stats['names'])
+        primary_name = names_list[0] if names_list else "Unknown"
+        
+        ranking.append({
+            'uid': uid,
+            'name': primary_name,
+            'all_names': names_list,
+            'count': stats['count'],
+            'last_seen': stats['last_seen']
+        })
+        
+    # Sort by count descending
+    ranking.sort(key=lambda x: x['count'], reverse=True)
+    
+    # Return top 100
+    return jsonify(ranking[:100])
+
 @app.route('/api/export/<room_id>')
 def api_export_room(room_id):
     """Export room logs to CSV"""
