@@ -278,6 +278,38 @@
             text-decoration: underline;
         }
 
+        /* Search Candidate List */
+        .candidate-list {
+            display: grid;
+            gap: 10px;
+        }
+
+        .candidate-item {
+            padding: 15px;
+            background: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .candidate-item:hover {
+            border-color: #667eea;
+            background: #f0f4ff;
+        }
+
+        .candidate-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+
+        .candidate-uid {
+            font-family: monospace;
+            font-weight: bold;
+            color: #4b5563;
+        }
+
         @media (max-width: 768px) {
             .results {
                 grid-template-columns: 1fr;
@@ -302,15 +334,15 @@
         <!-- Search Tab -->
         <div id="search" class="tab-content active">
             <div class="search-section">
-                <h2>ユーザーID (UID) で検索</h2>
+                <h2>ユーザー検索 (UID または encip 部分一致)</h2>
                 <div class="search-group">
-                    <input type="text" id="uidInput" placeholder="UID を入力してください... (例: 2ca2aeba...)">
-                    <button onclick="searchUser()">検索</button>
+                    <input type="text" id="uidInput" placeholder="UID または encip を入力してください... (例: 2ca2...)">
+                    <button onclick="performSearch()">検索</button>
                 </div>
             </div>
             <div class="results" id="searchResults">
                 <div class="empty-state">
-                    <p>UIDを入力して検索してください</p>
+                    <p>検索ワードを入力してください</p>
                 </div>
             </div>
         </div>
@@ -331,7 +363,7 @@
                     <div id="nameChangesList" class="loading">読み込み中...</div>
                 </div>
                 <div class="card">
-                    <h3>🌐 同一IP共有ユーザー</h3>
+                    <h3>🌐 同一接続元 (encip) 共有ユーザー</h3>
                     <div id="ipSharedList" class="loading">読み込み中...</div>
                 </div>
             </div>
@@ -352,29 +384,63 @@
         }
 
         // Search Function
-        async function searchUser(uid = null) {
-            if (uid) {
-                document.getElementById('uidInput').value = uid;
-                switchTab('search');
-            } else {
-                uid = document.getElementById('uidInput').value.trim();
-            }
-
-            if (!uid) return alert('UIDを入力してください');
+        async function performSearch() {
+            const query = document.getElementById('uidInput').value.trim();
+            if (!query) return alert('検索ワードを入力してください');
 
             const container = document.getElementById('searchResults');
-            container.innerHTML = '<div class="loading">🔄 読み込み中...</div>';
+            container.innerHTML = '<div class="loading">🔄 検索中...</div>';
+
+            try {
+                // First, try to search using the search API
+                const searchRes = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+                const candidates = await searchRes.json();
+
+                if (candidates.length === 0) {
+                    container.innerHTML = '<div class="empty-state">該当するユーザーが見つかりませんでした</div>';
+                    return;
+                }
+
+                if (candidates.length === 1) {
+                    // Exact match or only one result -> Show profile directly
+                    loadUserProfile(candidates[0].uid);
+                } else {
+                    // Multiple matches -> Show list
+                    let html = '<div class="card full-width"><h3>🔍 検索結果 (' + candidates.length + '件)</h3><div class="candidate-list">';
+                    candidates.forEach(c => {
+                        html += `
+                            <div class="candidate-item" onclick="loadUserProfile('${c.uid}')">
+                                <div class="candidate-header">
+                                    <span class="candidate-uid">${c.uid}</span>
+                                    <span style="font-size:12px; color:#6b7280">最終観測: ${formatDate(c.last_seen)}</span>
+                                </div>
+                                <div class="username-badges">
+                                    ${c.names.slice(0, 5).map(n => `<span class="username-badge">${escapeHtml(n)}</span>`).join('')}
+                                    ${c.names.length > 5 ? `<span class="username-badge" style="background:#9ca3af">+${c.names.length - 5}</span>` : ''}
+                                </div>
+                                <div style="font-size:11px; color:#9ca3af; margin-top:5px">encip: ${c.encips.join(', ')}</div>
+                            </div>
+                        `;
+                    });
+                    html += '</div></div>';
+                    container.innerHTML = html;
+                }
+
+            } catch (e) {
+                container.innerHTML = `<div class="empty-state">エラー: ${e.message}</div>`;
+            }
+        }
+
+        async function loadUserProfile(uid) {
+            document.getElementById('uidInput').value = uid;
+            const container = document.getElementById('searchResults');
+            container.innerHTML = '<div class="loading">🔄 プロファイル読み込み中...</div>';
 
             try {
                 const [profile, messages] = await Promise.all([
                     fetch(`/api/user/${uid}/profile`).then(r => r.json()),
                     fetch(`/api/user/${uid}/messages`).then(r => r.json())
                 ]);
-
-                if (profile.message_count === 0) {
-                    container.innerHTML = '<div class="empty-state">データが見つかりませんでした</div>';
-                    return;
-                }
 
                 const profileHTML = `
                     <div class="card">
@@ -403,6 +469,7 @@
                                     </div>
                                     <div style="font-size:12px; color:#6b7280; margin-bottom:5px">📍 ${escapeHtml(m.room_name)}</div>
                                     <div>${escapeHtml(m.message)}</div>
+                                    <div style="font-size:10px; color:#d1d5db; margin-top:3px">encip: ${m.encip || '-'}</div>
                                 </div>
                             `).join('')}
                         </div>
@@ -452,7 +519,7 @@
                             </td>
                             <td>${user.count}</td>
                             <td>${formatDate(user.last_seen)}</td>
-                            <td><a href="#" class="uid-link" onclick="searchUser('${user.uid}')">${user.uid.substring(0, 8)}...</a></td>
+                            <td><a href="#" class="uid-link" onclick="loadUserProfile('${user.uid}')">${user.uid.substring(0, 8)}...</a></td>
                         </tr>
                     `;
                 });
@@ -478,7 +545,7 @@
                     <div class="suspicious-item">
                         <div class="suspicious-header">
                             <span>頻繁な名前変更 (${u.names.length}回)</span>
-                            <a href="#" class="uid-link" onclick="searchUser('${u.uid}')">詳細</a>
+                            <a href="#" class="uid-link" onclick="loadUserProfile('${u.uid}')">詳細</a>
                         </div>
                         <div class="username-badges">
                             ${u.names.map(n => `<span class="username-badge" style="background:#be123c">${escapeHtml(n)}</span>`).join('')}
@@ -497,14 +564,14 @@
                 ipContainer.innerHTML = data.map(ip => `
                     <div class="suspicious-item" style="background:#eff6ff; border-color:#bfdbfe">
                         <div class="suspicious-header" style="color:#1d4ed8">
-                            <span>IP共有 (${ip.count}人)</span>
+                            <span>同一接続元 (encip) 共有 (${ip.count}人)</span>
                             <span style="font-family:monospace">${ip.ip}</span>
                         </div>
                         <div style="margin-top:5px">
                             ${ip.users.map(u => `
                                 <div style="display:flex; justify-content:space-between; font-size:13px; padding:4px 0; border-bottom:1px dashed #bfdbfe">
                                     <span>${escapeHtml(u.name)}</span>
-                                    <a href="#" class="uid-link" onclick="searchUser('${u.uid}')">${u.uid.substring(0, 8)}...</a>
+                                    <a href="#" class="uid-link" onclick="loadUserProfile('${u.uid}')">${u.uid.substring(0, 8)}...</a>
                                 </div>
                             `).join('')}
                         </div>
@@ -528,7 +595,7 @@
 
         // Init
         document.getElementById('uidInput').addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') searchUser();
+            if (e.key === 'Enter') performSearch();
         });
     </script>
 </body>
