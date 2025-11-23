@@ -56,10 +56,18 @@ class MessageSaver:
             
             # Convert users dict to lookup format
             user_dict = {}
+            users_source = []
+            
             if isinstance(users, dict):
-                for user_data in users.values():
-                    if isinstance(user_data, dict) and 'id' in user_data:
-                        user_dict[user_data['id']] = user_data
+                users_source = list(users.values())
+            elif isinstance(users, list):
+                users_source = users
+                
+            for user_data in users_source:
+                if isinstance(user_data, dict) and 'id' in user_data:
+                    # Normalize id/uid keys if needed, but 'id' seems standard in users list
+                    uid = user_data['id']
+                    user_dict[uid] = user_data
             
             # Handle both list and dict formats for talks
             talks_list = []
