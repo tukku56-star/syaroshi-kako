@@ -414,9 +414,9 @@
         <!-- Search Tab -->
         <div id="search" class="tab-content active">
             <div class="search-section">
-                <h2>ユーザー検索 (UID または encip 部分一致)</h2>
+                <h2>ユーザー検索 (UID, encip, trip 部分一致)</h2>
                 <div class="search-group">
-                    <input type="text" id="uidInput" placeholder="UID または encip を入力してください... (例: 2ca2...)">
+                    <input type="text" id="uidInput" placeholder="UID, encip, trip を入力してください...">
                     <button onclick="performSearch()">検索</button>
                 </div>
             </div>
@@ -444,6 +444,7 @@
                     <div class="radio-group">
                         <label class="radio-label"><input type="radio" name="rankType" value="uid" checked> UID別</label>
                         <label class="radio-label"><input type="radio" name="rankType" value="encip"> encip別</label>
+                        <label class="radio-label"><input type="radio" name="rankType" value="trip"> trip別</label>
                     </div>
                 </div>
                 <button class="update-btn" onclick="loadRanking()">更新</button>
@@ -528,6 +529,7 @@
                 } else {
                     let html = '<div class="card full-width"><h3>🔍 検索結果 (' + candidates.length + '件)</h3><div class="candidate-list">';
                     candidates.forEach(c => {
+                        const tripInfo = c.trips && c.trips.length > 0 ? `trip: ${c.trips.join(', ')}` : '';
                         html += `
                             <div class="candidate-item" onclick="loadUserProfile('${c.uid}')">
                                 <div class="candidate-header">
@@ -539,6 +541,7 @@
                                     ${c.names.length > 5 ? `<span class="username-badge" style="background:#9ca3af">+${c.names.length - 5}</span>` : ''}
                                 </div>
                                 <div style="font-size:11px; color:#9ca3af; margin-top:5px">encip: ${c.encips.join(', ')}</div>
+                                ${tripInfo ? `<div style="font-size:11px; color:#764ba2; margin-top:2px">${tripInfo}</div>` : ''}
                             </div>
                         `;
                     });
@@ -562,6 +565,11 @@
                     fetch(`/api/user/${uid}/messages`).then(r => r.json())
                 ]);
 
+                // Extract trips from messages if not in profile (profile API might not return trips yet)
+                const trips = new Set();
+                messages.forEach(m => { if (m.trip) trips.add(m.trip); });
+                const tripsStr = Array.from(trips).join(', ') || 'なし';
+
                 const profileHTML = `
                     <div class="card">
                         <h3>📊 プロファイル</h3>
@@ -571,7 +579,8 @@
                         <div class="username-badges">
                             ${profile.usernames.map(n => `<span class="username-badge">${escapeHtml(n)}</span>`).join('')}
                         </div>
-                        <div class="stat" style="margin-top:15px"><span class="stat-label">訪問部屋数</span><span class="stat-value">${profile.rooms.length}</span></div>
+                        <div class="stat" style="margin-top:15px"><span class="stat-label">トリップ</span><span class="stat-value" style="font-family:monospace">${escapeHtml(tripsStr)}</span></div>
+                        <div class="stat"><span class="stat-label">訪問部屋数</span><span class="stat-value">${profile.rooms.length}</span></div>
                         <div class="stat"><span class="stat-label">初回観測</span><span class="stat-value">${formatDate(profile.first_seen)}</span></div>
                         <div class="stat"><span class="stat-label">最終観測</span><span class="stat-value">${formatDate(profile.last_seen)}</span></div>
                     </div>
@@ -589,7 +598,9 @@
                                     </div>
                                     <div style="font-size:12px; color:#6b7280; margin-bottom:5px">📍 ${escapeHtml(m.room_name)}</div>
                                     <div>${escapeHtml(m.message)}</div>
-                                    <div style="font-size:10px; color:#d1d5db; margin-top:3px">encip: ${m.encip || '-'}</div>
+                                    <div style="font-size:10px; color:#d1d5db; margin-top:3px">
+                                        encip: ${m.encip || '-'} | trip: ${m.trip || '-'}
+                                    </div>
                                 </div>
                             `).join('')}
                         </div>
@@ -624,8 +635,10 @@
                     return;
                 }
 
-                const idLabel = type === 'encip' ? 'encip' : 'UID';
-                const relatedLabel = type === 'encip' ? '関連UID' : '関連encip';
+                let idLabel = 'UID';
+                let relatedLabel = '関連ID';
+                if (type === 'encip') { idLabel = 'encip'; relatedLabel = '関連UID'; }
+                if (type === 'trip') { idLabel = 'trip'; relatedLabel = '関連UID'; }
 
                 let html = `
                     <table class="ranking-table">
@@ -644,7 +657,11 @@
                 data.forEach((user, index) => {
                     const rankClass = index < 3 ? `rank-${index + 1}` : '';
                     const idDisplay = user.id.length > 20 ? user.id.substring(0, 8) + '...' : user.id;
-                    const clickAction = type === 'uid' ? `loadUserProfile('${user.id}')` : `searchUserByEncip('${user.id}')`;
+
+                    let clickAction = `loadUserProfile('${user.id}')`;
+                    if (type === 'encip' || type === 'trip') {
+                        clickAction = `searchUserByQuery('${user.id}')`;
+                    }
 
                     html += `
                         <tr>
@@ -656,7 +673,7 @@
                             <td>${user.count}</td>
                             <td>${formatDate(user.last_seen)}</td>
                             <td>
-                                <a href="#" class="uid-link" onclick="${clickAction}">${idDisplay}</a>
+                                <a href="#" class="uid-link" onclick="${clickAction}">${escapeHtml(idDisplay)}</a>
                                 <div style="font-size:10px; color:#9ca3af">${user.related_ids.length} ${relatedLabel}</div>
                             </td>
                         </tr>
@@ -671,8 +688,8 @@
             }
         }
 
-        function searchUserByEncip(encip) {
-            document.getElementById('uidInput').value = encip;
+        function searchUserByQuery(query) {
+            document.getElementById('uidInput').value = query;
             performSearch();
         }
 
