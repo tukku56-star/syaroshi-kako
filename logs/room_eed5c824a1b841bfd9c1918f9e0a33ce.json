@@ -1,0 +1,513 @@
+[
+  {
+    "captured_at": "2025-11-22T03:32:11.211075",
+    "room_id": "eed5c824a1b841bfd9c1918f9e0a33ce",
+    "room_name": "フリフ",
+    "bot_name": "Drive",
+    "data": {
+      "name": "雑談部屋(画像OFF)",
+      "create": 1563454808,
+      "update": 1763749961,
+      "type": 0,
+      "limit": 25,
+      "host": "\n\t",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B/dW0PB5awEB6Uibz5Yoxw==",
+      "users": {
+        "4": {
+          "name": "こはる",
+          "id": "14a8a7c43477fe753d77af888e218526",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763748957
+        },
+        "5": {
+          "name": "Drive",
+          "id": "2d1437ae880cb951c074988a72e32b72",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763749961
+        }
+      },
+      "talks": [
+        {
+          "id": "3ff92d3f12b8752fc1d90e7d164936d4",
+          "type": "exit",
+          "uid": "0",
+          "encip": "JFQgSYFqC7OPdCkj14NaRDVlUbOc83quVioc7tEf5mHZ8eH0ghV+tErA+SVN+lbK",
+          "name": "注意",
+          "message": "ーー 注意さんが退室しました",
+          "icon": "",
+          "time": 1763740192
+        },
+        {
+          "id": "fd59893d158f2c9fccd70c18010c7148",
+          "uid": "0",
+          "name": "える",
+          "message": "ーー えるさんの接続が切れました",
+          "icon": "",
+          "time": 1763741911
+        },
+        {
+          "id": "f820a1d0f909623cf0fd935cc7703c6f",
+          "uid": "0",
+          "name": "-140.4万ドむラ",
+          "message": "ーー -140.4万ドむラさんの接続が切れました",
+          "icon": "",
+          "time": 1763741911
+        },
+        {
+          "id": "f1c33ffeb78e05c774fa8d77e4095a11",
+          "type": "enter",
+          "uid": "0",
+          "encip": "8eRkxGHEseIXe1wQ97T1FA==",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763741911
+        },
+        {
+          "id": "f36a9ff0d03769a9a209b0f21bc27fc2",
+          "type": "exit",
+          "uid": "0",
+          "encip": "8eRkxGHEseIXe1wQ97T1FA==",
+          "name": "名無し",
+          "message": "ーー 名無しさんが退室しました",
+          "icon": "",
+          "time": 1763741934
+        },
+        {
+          "id": "9d1c302f36db30d960bd5af54d80c65e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "LINxGryXXL9pIQZqKzV9wle5NEva9N9lfsbvpwqt7tX46U8UhzY1l+o0cQf6gDt1",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763742063
+        },
+        {
+          "id": "2148d1f2091223cc0f746743c32fdd5e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "FUWDQefW3ijcXgkn/HQG7hn654Ze+gch0HYw7P6GE/UoXUFLSDPzgEqUJ7i1Wq27",
+          "name": "omen",
+          "message": "ーー omenさんが入室しました",
+          "icon": "",
+          "time": 1763742067
+        },
+        {
+          "id": "ac77f35df732fb8bd31210a1c663882f",
+          "type": "exit",
+          "uid": "0",
+          "encip": "FUWDQefW3ijcXgkn/HQG7hn654Ze+gch0HYw7P6GE/UoXUFLSDPzgEqUJ7i1Wq27",
+          "name": "omen",
+          "message": "ーー omenさんが退室しました",
+          "icon": "",
+          "time": 1763742072
+        },
+        {
+          "id": "fa0e5610cc7cebe41dc9ec3881fc00c4",
+          "type": "exit",
+          "uid": "0",
+          "encip": "LINxGryXXL9pIQZqKzV9wle5NEva9N9lfsbvpwqt7tX46U8UhzY1l+o0cQf6gDt1",
+          "name": "名無し",
+          "message": "ーー 名無しさんが退室しました",
+          "icon": "",
+          "time": 1763742086
+        },
+        {
+          "id": "664ccfc93665dc74d1fbdd0a847824ca",
+          "type": "enter",
+          "uid": "0",
+          "encip": "cwYe2igwbekD6aWrYK5Wk0qHyCHntiAbDUBPk8hPuiLDLDWC869z4Isq/rcOPohu",
+          "name": "狸田ポン",
+          "message": "ーー 狸田ポンさんが入室しました",
+          "icon": "",
+          "time": 1763742147
+        },
+        {
+          "id": "f7eac46a51ec16d31e048eff858e3741",
+          "type": "exit",
+          "uid": "0",
+          "encip": "cwYe2igwbekD6aWrYK5Wk0qHyCHntiAbDUBPk8hPuiLDLDWC869z4Isq/rcOPohu",
+          "name": "狸田ポン",
+          "message": "ーー 狸田ポンさんが退室しました",
+          "icon": "",
+          "time": 1763742207
+        },
+        {
+          "id": "0beed78b7788982950068130f50df3d6",
+          "type": "enter",
+          "uid": "0",
+          "encip": "FUWDQefW3ijcXgkn/HQG7hn654Ze+gch0HYw7P6GE/UoXUFLSDPzgEqUJ7i1Wq27",
+          "name": "puaj",
+          "message": "ーー puajさんが入室しました",
+          "icon": "",
+          "time": 1763742273
+        },
+        {
+          "id": "fa23cbb95fd5adf011fb19930bc21a1a",
+          "type": "exit",
+          "uid": "0",
+          "encip": "FUWDQefW3ijcXgkn/HQG7hn654Ze+gch0HYw7P6GE/UoXUFLSDPzgEqUJ7i1Wq27",
+          "name": "puaj",
+          "message": "ーー puajさんが退室しました",
+          "icon": "",
+          "time": 1763742284
+        },
+        {
+          "id": "25dd892e02965ab768f6246e0721a4f4",
+          "type": "enter",
+          "uid": "0",
+          "encip": "VmqTbiE3f/9YIk+Fiqhd6A==",
+          "name": "るう",
+          "message": "ーー るうさんが入室しました",
+          "icon": "",
+          "time": 1763742876
+        },
+        {
+          "id": "2e89c341f676c5e047aba7e333353878",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが入室しました",
+          "icon": "",
+          "time": 1763742877
+        },
+        {
+          "id": "8f53a2e419ff5c210c71e8be02a04a26",
+          "type": "exit",
+          "uid": "0",
+          "encip": "VmqTbiE3f/9YIk+Fiqhd6A==",
+          "name": "るう",
+          "message": "ーー るうさんが退室しました",
+          "icon": "",
+          "time": 1763742888
+        },
+        {
+          "id": "35348e011b1bb96fe78d4a68b9f99917",
+          "type": "exit",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが退室しました",
+          "icon": "",
+          "time": 1763743332
+        },
+        {
+          "id": "d39aa7034dc3ac2bc757e5164c0d2677",
+          "type": "enter",
+          "uid": "0",
+          "encip": "69Rr6vI+R2SzjS6pQV6dWsWGlESmv/lkI5Qfc8wgH3vk5JQICWR4iWn7qI/B2pEH",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763743379
+        },
+        {
+          "id": "255b07003056274e2045a325b2c8cf28",
+          "type": "exit",
+          "uid": "0",
+          "encip": "69Rr6vI+R2SzjS6pQV6dWsWGlESmv/lkI5Qfc8wgH3vk5JQICWR4iWn7qI/B2pEH",
+          "name": "名無し",
+          "message": "ーー 名無しさんが退室しました",
+          "icon": "",
+          "time": 1763743383
+        },
+        {
+          "id": "b934f67a6783ef0059bd51d428e0f799",
+          "type": "enter",
+          "uid": "0",
+          "encip": "LINxGryXXL9pIQZqKzV9wle5NEva9N9lfsbvpwqt7tX46U8UhzY1l+o0cQf6gDt1",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763743466
+        },
+        {
+          "id": "32819b627741b8bd512ebec9ae9cd01b",
+          "type": "exit",
+          "uid": "0",
+          "encip": "LINxGryXXL9pIQZqKzV9wle5NEva9N9lfsbvpwqt7tX46U8UhzY1l+o0cQf6gDt1",
+          "name": "名無し",
+          "message": "ーー 名無しさんが退室しました",
+          "icon": "",
+          "time": 1763743477
+        },
+        {
+          "id": "6caaf08f69d287a51a124131104b3f43",
+          "type": "enter",
+          "uid": "0",
+          "encip": "LINxGryXXL9pIQZqKzV9wle5NEva9N9lfsbvpwqt7tX46U8UhzY1l+o0cQf6gDt1",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763745168
+        },
+        {
+          "id": "d30688dc2de3ece595ac7b620440ddca",
+          "type": "exit",
+          "uid": "0",
+          "encip": "LINxGryXXL9pIQZqKzV9wle5NEva9N9lfsbvpwqt7tX46U8UhzY1l+o0cQf6gDt1",
+          "name": "名無し",
+          "message": "ーー 名無しさんが退室しました",
+          "icon": "",
+          "time": 1763745171
+        },
+        {
+          "id": "5d564b2d7307107be2e436e1086f5c7d",
+          "type": "enter",
+          "uid": "0",
+          "encip": "RhzmH13I3AwhGmnCjuirHP7N2Oy1qBa7SW9mODJxTqwR1Y/J6Uld97a1bJqUqi+0",
+          "name": "口臭撒き散らして筋トレ中",
+          "message": "ーー 口臭撒き散らして筋トレ中さんが入室しました",
+          "icon": "",
+          "time": 1763745491
+        },
+        {
+          "id": "efcf863e46b3404f5ba4cd3abb91763a",
+          "uid": "08ebec14d1bdafcb8a788df4c22f698f",
+          "name": "口臭撒き散らして筋トレ中",
+          "message": "口臭撒き散らして筋トレ中",
+          "icon": "setton",
+          "time": 1763745495
+        },
+        {
+          "id": "be1de03eb0531abc0e2e343a475aa768",
+          "type": "exit",
+          "uid": "0",
+          "encip": "RhzmH13I3AwhGmnCjuirHP7N2Oy1qBa7SW9mODJxTqwR1Y/J6Uld97a1bJqUqi+0",
+          "name": "口臭撒き散らして筋トレ中",
+          "message": "ーー 口臭撒き散らして筋トレ中さんが退室しました",
+          "icon": "",
+          "time": 1763745496
+        },
+        {
+          "id": "1171abef030d814bd047e892463409a3",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが入室しました",
+          "icon": "",
+          "time": 1763745808
+        },
+        {
+          "id": "d45c330ced5665ba23de397593e6f7c1",
+          "type": "exit",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが退室しました",
+          "icon": "",
+          "time": 1763745822
+        },
+        {
+          "id": "fef0a6e4c059b99b53d356be1bc3ded2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが入室しました",
+          "icon": "",
+          "time": 1763745938
+        },
+        {
+          "id": "edf47e196e5df02d49ff77104c506d7a",
+          "type": "exit",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが退室しました",
+          "icon": "",
+          "time": 1763745951
+        },
+        {
+          "id": "2e4d8f827b7c9e3287dd654555e28396",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが入室しました",
+          "icon": "",
+          "time": 1763746028
+        },
+        {
+          "id": "e55363527279f30a1c8526c8af8fd2bc",
+          "type": "exit",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが退室しました",
+          "icon": "",
+          "time": 1763746041
+        },
+        {
+          "id": "8ef7fcb6e844dbd06601179f9abb5be4",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが入室しました",
+          "icon": "",
+          "time": 1763746186
+        },
+        {
+          "id": "9faa0a41dcf2f33558ca7cd7c992f78c",
+          "type": "exit",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "PatrolBot",
+          "message": "ーー PatrolBotさんが退室しました",
+          "icon": "",
+          "time": 1763746199
+        },
+        {
+          "id": "12f5446cf3ae87084d0a38511a5e6ace",
+          "type": "enter",
+          "uid": "0",
+          "encip": "nb3VFUVBUmQMHq/vomTqWA==",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763746451
+        },
+        {
+          "id": "c4d200a9b6dd05580f248ac4850dacb6",
+          "type": "exit",
+          "uid": "0",
+          "encip": "nb3VFUVBUmQMHq/vomTqWA==",
+          "name": "名無し",
+          "message": "ーー 名無しさんが退室しました",
+          "icon": "",
+          "time": 1763746475
+        },
+        {
+          "id": "64a73316475266f621f96b74de918c88",
+          "type": "enter",
+          "uid": "0",
+          "encip": "nb3VFUVBUmQMHq/vomTqWA==",
+          "name": "名無し",
+          "message": "ーー 名無しさんが入室しました",
+          "icon": "",
+          "time": 1763746539
+        },
+        {
+          "id": "b5b219a48ed8e6708ca29684fde19698",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "はる",
+          "message": "ーー はるさんが入室しました",
+          "icon": "",
+          "time": 1763748148
+        },
+        {
+          "id": "be257c4af9644147f6eacb9a361aa8ed",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "こはる",
+          "message": "ーー こはるさんが入室しました",
+          "icon": "",
+          "time": 1763748202
+        },
+        {
+          "id": "ee19bd8f61909d2dc170b36588d929a2",
+          "uid": "0",
+          "name": "名無し",
+          "message": "ーー 名無しさんの接続が切れました",
+          "icon": "",
+          "time": 1763748532
+        },
+        {
+          "id": "8b51882bbe8636c1c10ce1ced308835e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "3mtzUf+0Il1OSF1guEkcpQ==",
+          "name": "まさ",
+          "message": "ーー まささんが入室しました",
+          "icon": "",
+          "time": 1763748532
+        },
+        {
+          "id": "7cab4b0338bd4873fbec81d19ff86b75",
+          "type": "exit",
+          "uid": "0",
+          "encip": "3mtzUf+0Il1OSF1guEkcpQ==",
+          "name": "まさ",
+          "message": "ーー まささんが退室しました",
+          "icon": "",
+          "time": 1763748580
+        },
+        {
+          "id": "ea73ed6cd9e0316dff347c032f9893dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "VmqTbiE3f/9YIk+Fiqhd6A==",
+          "name": "るう",
+          "message": "ーー るうさんが入室しました",
+          "icon": "",
+          "time": 1763748585
+        },
+        {
+          "id": "9c98b3c7d55e902024f69f4d7b62e309",
+          "type": "exit",
+          "uid": "0",
+          "encip": "VmqTbiE3f/9YIk+Fiqhd6A==",
+          "name": "るう",
+          "message": "ーー るうさんが退室しました",
+          "icon": "",
+          "time": 1763749201
+        },
+        {
+          "id": "6171ffae618f8efe979984323e2b950b",
+          "type": "enter",
+          "uid": "0",
+          "encip": "VmqTbiE3f/9YIk+Fiqhd6A==",
+          "name": "るう",
+          "message": "ーー るうさんが入室しました",
+          "icon": "",
+          "time": 1763749256
+        },
+        {
+          "id": "116af9a4fb1aa9a604a11ca11bd44189",
+          "type": "exit",
+          "uid": "0",
+          "encip": "VmqTbiE3f/9YIk+Fiqhd6A==",
+          "name": "るう",
+          "message": "ーー るうさんが退室しました",
+          "icon": "",
+          "time": 1763749385
+        },
+        {
+          "id": "37996014dbf048281acb26d9f4bc344e",
+          "uid": "0",
+          "name": "はる",
+          "message": "ーー はるさんの接続が切れました",
+          "icon": "",
+          "time": 1763749961
+        },
+        {
+          "id": "967208623164b372b46e5026d707c77d",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Drive",
+          "message": "ーー Driveさんが入室しました",
+          "icon": "",
+          "time": 1763749961
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

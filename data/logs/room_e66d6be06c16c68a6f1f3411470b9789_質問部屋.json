@@ -1,0 +1,19 @@
+{
+  "room_id": "e66d6be06c16c68a6f1f3411470b9789",
+  "room_name": "質問部屋",
+  "last_updated": "2025-11-23T13:24:32.807120",
+  "total_messages": 1,
+  "messages": [
+    {
+      "id": "c6c84a994a6b20652dea1eae9496016d",
+      "uid": "a3cdf7d51ea03bc1b5bb413211b8e615",
+      "name": "えたん",
+      "message": "ちわ",
+      "time": 1763871870,
+      "icon": "muff",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:32.807110"
+    }
+  ]
+}

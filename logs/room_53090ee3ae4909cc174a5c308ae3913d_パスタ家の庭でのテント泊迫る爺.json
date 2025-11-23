@@ -1,0 +1,228 @@
+[
+  {
+    "captured_at": "2025-11-22T13:24:13.890989",
+    "room_id": "53090ee3ae4909cc174a5c308ae3913d",
+    "room_name": "パスタ家の庭でのテント泊迫る爺",
+    "bot_name": "Nana",
+    "data": {
+      "name": "ロングヘアショートヘア",
+      "create": 1763785179,
+      "update": 1763785451,
+      "type": 0,
+      "limit": 5,
+      "host": "1fe1b00d9bfed9435f831421568aad5e",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "QX3rtTTezKPoznn47phE6g==",
+      "users": {
+        "0": {
+          "name": "ちゃお",
+          "id": "1fe1b00d9bfed9435f831421568aad5e",
+          "icon": "neko",
+          "trip": "",
+          "update": 1763785179
+        },
+        "3": {
+          "name": "皿",
+          "id": "79ed8d0f2e0d85bfce76ca0483568ec0",
+          "encip": "9Xz/ezfIGg1xu8SMRcEF2kKgeeUF8jqv4v+v4MvnF/PZ8eH0ghV+tErA+SVN+lbK",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763785294
+        },
+        "4": {
+          "name": "c01a4t3",
+          "id": "3fc8bca9db83531730007efc85953f9d",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763785394
+        },
+        "5": {
+          "name": "Nana",
+          "id": "f01099a32dac78980e414db0c206f204",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763785451
+        }
+      },
+      "talks": [
+        {
+          "id": "438104deb8dd86de2e4839976fee6149",
+          "uid": "0",
+          "name": "ちゃお",
+          "message": "ーー ちゃおさんが入室しました",
+          "icon": "",
+          "time": 1763785179
+        },
+        {
+          "id": "bb22f4462e8a59084c90b46ecbfb4ba6",
+          "type": "enter",
+          "uid": "0",
+          "encip": "nJl+BT5RgBcZOf6C+t1rx8CCtuVy42dPWTSRb51GlHA=",
+          "name": "マタギ",
+          "message": "ーー マタギさんが入室しました",
+          "icon": "",
+          "time": 1763785216
+        },
+        {
+          "id": "32f6334cb023c96ad4b0e8ce13a6446a",
+          "uid": "f2728c8659173db3d5293ea1fc5251b5",
+          "name": "マタギ",
+          "message": "こん",
+          "icon": "bear",
+          "time": 1763785219
+        },
+        {
+          "id": "452d686a86febb4a46c1b7f7c19a41b6",
+          "uid": "f2728c8659173db3d5293ea1fc5251b5",
+          "name": "マタギ",
+          "message": "髪でも切るのかな",
+          "icon": "bear",
+          "time": 1763785227
+        },
+        {
+          "id": "0b20d9980ff9c791afbd937fe6b1c2ef",
+          "type": "enter",
+          "uid": "0",
+          "encip": "1X4/hQjKZQbMHecemNk+FdFunOONPIklfxTKURm0H+U=",
+          "name": "たらこ",
+          "message": "ーー たらこさんが入室しました",
+          "icon": "",
+          "time": 1763785253
+        },
+        {
+          "id": "7cbd5a113b0f17e974828dc8510057c5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "iMoOQKTLYFcsid/HTaVb/A==",
+          "name": "厳冬の札幌・旭川ツアー",
+          "message": "ーー 厳冬の札幌・旭川ツアーさんが入室しました",
+          "icon": "",
+          "time": 1763785263
+        },
+        {
+          "id": "31c942261ac4cad17e138e8643a543eb",
+          "uid": "6faac6585a3403fb1912863b679917fa",
+          "name": "たらこ",
+          "message": "こん",
+          "icon": "rab",
+          "time": 1763785266
+        },
+        {
+          "id": "69d57e2e587821d13934d6564b0c6739",
+          "type": "exit",
+          "uid": "0",
+          "encip": "iMoOQKTLYFcsid/HTaVb/A==",
+          "name": "厳冬の札幌・旭川ツアー",
+          "message": "ーー 厳冬の札幌・旭川ツアーさんが退室しました",
+          "icon": "",
+          "time": 1763785268
+        },
+        {
+          "id": "d63b88731a6f92276ffdba2bd5b80836",
+          "type": "enter",
+          "uid": "0",
+          "encip": "9Xz/ezfIGg1xu8SMRcEF2kKgeeUF8jqv4v+v4MvnF/PZ8eH0ghV+tErA+SVN+lbK",
+          "name": "皿",
+          "message": "ーー 皿さんが入室しました",
+          "icon": "",
+          "time": 1763785294
+        },
+        {
+          "id": "ac01694b5a6237f051cb8e9869ea3bfe",
+          "uid": "6faac6585a3403fb1912863b679917fa",
+          "name": "たらこ",
+          "message": "髪の話したかったけどいないみたいだね",
+          "icon": "rab",
+          "time": 1763785343
+        },
+        {
+          "id": "8c251cf670f82c7b4261c8711dbb0525",
+          "type": "exit",
+          "uid": "0",
+          "encip": "1X4/hQjKZQbMHecemNk+FdFunOONPIklfxTKURm0H+U=",
+          "name": "たらこ",
+          "message": "ーー たらこさんが退室しました",
+          "icon": "",
+          "time": 1763785344
+        },
+        {
+          "id": "e226126ddd2a6f4c5960734543d6eb86",
+          "type": "exit",
+          "uid": "0",
+          "encip": "nJl+BT5RgBcZOf6C+t1rx8CCtuVy42dPWTSRb51GlHA=",
+          "name": "マタギ",
+          "message": "ーー マタギさんが退室しました",
+          "icon": "",
+          "time": 1763785357
+        },
+        {
+          "id": "563a3cadc037f83165d76f8490a265c9",
+          "type": "enter",
+          "uid": "0",
+          "encip": "iMoOQKTLYFcsid/HTaVb/A==",
+          "name": "友紀くん？僕です。",
+          "message": "ーー 友紀くん？僕です。さんが入室しました",
+          "icon": "",
+          "time": 1763785364
+        },
+        {
+          "id": "cb97d3a27442b9f586e91b38d957cac3",
+          "type": "exit",
+          "uid": "0",
+          "encip": "iMoOQKTLYFcsid/HTaVb/A==",
+          "name": "友紀くん？僕です。",
+          "message": "ーー 友紀くん？僕です。さんが退室しました",
+          "icon": "",
+          "time": 1763785367
+        },
+        {
+          "id": "b9ce0de8c18a81e8e5084c8618488ca8",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "c01a4t3",
+          "message": "ーー c01a4t3さんが入室しました",
+          "icon": "",
+          "time": 1763785394
+        },
+        {
+          "id": "4f0bde9bcd79aea84af0e7e58ed8710a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "2mjvG3qKRnRDe8GRAreKdA==",
+          "name": "h",
+          "message": "ーー hさんが入室しました",
+          "icon": "",
+          "time": 1763785416
+        },
+        {
+          "id": "6a942396a4eae53fec425fdbbb4d503b",
+          "type": "exit",
+          "uid": "0",
+          "encip": "2mjvG3qKRnRDe8GRAreKdA==",
+          "name": "h",
+          "message": "ーー hさんが退室しました",
+          "icon": "",
+          "time": 1763785431
+        },
+        {
+          "id": "843ca785018a8fbc4e2b42134d936528",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Nana",
+          "message": "ーー Nanaさんが入室しました",
+          "icon": "",
+          "time": 1763785451
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

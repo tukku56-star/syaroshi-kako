@@ -1,0 +1,2876 @@
+[
+  {
+    "captured_at": "2025-11-22T09:21:46.573829",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:48.009136",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:49.697854",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:51.480188",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:53.125473",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:54.893631",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:56.559872",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:58.331132",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:59.946887",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:01.563052",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:03.312740",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:05.063862",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770903,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "l+gUuUNUN4y986tu2Ahd2frW1L/qHLVLU8l5uA42Yrj3CE6jAIBleTWEyncJeiot",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770880
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:06.676200",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:08.341257",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:10.096199",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:11.842093",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:13.453924",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:15.162999",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:16.907105",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:18.541285",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:20.469628",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:22.140977",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:23.730966",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:25.447720",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:27.228354",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:28.829733",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:30.558325",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:32.300428",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:33.863485",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:36.220559",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:37.257995",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:39.058578",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:40.767845",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:42.521679",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:44.138506",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:46.016460",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:47.722918",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:49.303322",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:51.159765",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:53.094815",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:55.461803",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:57.713218",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:59.773185",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:23:00.980190",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:23:02.555112",
+    "room_id": "dd0b99c0ec6246267e3c47bba11458d2",
+    "room_name": "なすがわvs井上拓真",
+    "bot_name": "Echo",
+    "data": {
+      "name": "なすがわvs井上拓真",
+      "create": 1763770880,
+      "update": 1763770926,
+      "type": 0,
+      "limit": 3,
+      "host": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "kW1yEtXP7QwGc/OGeuhBoc69qt4v0dSKptqdQ3Yn/9GJRTIiO44TQnlcXW4PWcDi",
+      "users": [
+        {
+          "name": "カナタ",
+          "id": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "icon": "bear",
+          "trip": "",
+          "update": 1763770926.42487
+        },
+        {
+          "name": "Echo",
+          "id": "6298e54fd9d78358f030032fcd269d5c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770903
+        }
+      ],
+      "talks": [
+        {
+          "id": "1f8cd92f43465f140afd9c1fd772db58",
+          "uid": "0",
+          "name": "カナタ",
+          "message": "ーー カナタさんが入室しました",
+          "icon": "",
+          "time": 1763770880
+        },
+        {
+          "id": "6cda3b4b31fcc3f08340e36db9027bfc",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Echo",
+          "message": "ーー Echoさんが入室しました",
+          "icon": "",
+          "time": 1763770903
+        },
+        {
+          "id": "bf1b7d576c18f15bbe782216c73c669a",
+          "uid": "d36ae9b9ab4b4275bdd4f94e801e8b65",
+          "name": "カナタ",
+          "message": "おはよう",
+          "icon": "bear",
+          "time": 1763770926
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

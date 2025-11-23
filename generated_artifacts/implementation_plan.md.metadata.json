@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "新しい実装計画。サイトの多重ログイン検知を回避するため、並列ボットから単一セッション・順次巡回方式に変更。より単純で安定した実装を提案。",
+  "updatedAt": "2025-11-22T10:08:25.026178400Z",
+  "version": "3"
+}

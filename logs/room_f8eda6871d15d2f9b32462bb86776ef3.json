@@ -1,0 +1,6710 @@
+[
+  {
+    "captured_at": "2025-11-22T09:19:31.858013",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:33.423346",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:35.184004",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:37.320457",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:38.674752",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:40.203676",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:41.996360",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:43.762564",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:45.287027",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:47.049371",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:48.875862",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:50.572396",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:52.191481",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:53.859431",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:55.792509",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:57.352161",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:19:58.862254",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:00.788715",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:02.391911",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:04.081562",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:05.831023",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:07.688645",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:09.329335",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:11.010628",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:12.592627",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:14.189195",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:15.995857",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:17.842051",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:19.510186",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:21.314279",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:22.880663",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:24.540388",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:27.111328",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:28.944170",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:30.690141",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:32.464091",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:34.904376",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:36.715188",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:38.967616",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:40.827947",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:42.666738",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:44.279736",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:45.793933",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:47.250111",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:48.591220",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:49.974964",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:51.149589",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:52.567715",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:54.055478",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:55.515941",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:57.128138",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:20:58.917522",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:00.502685",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:02.232838",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:03.931807",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:06.718352",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:08.669992",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:10.805898",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:13.857110",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:16.081457",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:18.349656",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:20.032818",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:22.199782",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:24.573649",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:26.388435",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:27.827310",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:29.465428",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:31.221269",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:32.635523",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:34.164021",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:36.128511",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:37.569121",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:39.182754",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:40.647464",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:42.679416",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:44.230106",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:45.676141",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:47.106971",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:48.523268",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:49.747668",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:52.334269",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:54.317665",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:56.662664",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:21:58.879944",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:01.049676",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:03.039418",
+    "room_id": "f8eda6871d15d2f9b32462bb86776ef3",
+    "room_name": "銀河",
+    "bot_name": "upsea39",
+    "data": {
+      "name": "銀河",
+      "create": 1763769859,
+      "update": 1763770768,
+      "type": 2,
+      "limit": 2,
+      "host": "e75bc88b93d75de283ccdfdd5ef7b822",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "f6sFOxiux2GBQYJ4/vp0uA==",
+      "users": [
+        {
+          "name": "カート",
+          "id": "e75bc88b93d75de283ccdfdd5ef7b822",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763769859
+        },
+        {
+          "name": "upsea39",
+          "id": "342930c33320e91ef96f32c13de3de80",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770768
+        }
+      ],
+      "talks": [
+        {
+          "id": "614177f857c3de59dc672b6bd2dd2fe7",
+          "uid": "0",
+          "name": "カート",
+          "message": "ーー カートさんが入室しました",
+          "icon": "",
+          "time": 1763769859
+        },
+        {
+          "id": "52f97eff75e2cd88c27f1f44aa8e8bfe",
+          "type": "enter",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが入室しました",
+          "icon": "",
+          "time": 1763770031
+        },
+        {
+          "id": "4c7c5293960bad4c2e122b476caf622d",
+          "type": "exit",
+          "uid": "0",
+          "encip": "6DRYV/HzUdU0K8YfipSpIw==",
+          "name": "飯田",
+          "message": "ーー 飯田さんが退室しました",
+          "icon": "",
+          "time": 1763770037
+        },
+        {
+          "id": "74ebb9f346bb9514f733fbc4f080e059",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "upsea39",
+          "message": "ーー upsea39さんが入室しました",
+          "icon": "",
+          "time": 1763770768
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

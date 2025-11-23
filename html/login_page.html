@@ -1,0 +1,225 @@
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="デュラララ,チャット,デュラチャ,雑談,おしゃべり">
+    <meta name="description" content="デュラララチャットへようこそ。内緒モード付きで画像投稿やお絵描きなども楽しめるチャットです。好きなルームを選んでデュラララの世界を楽しもう！ ">
+    <title>デュラララチャット(仮)</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cyborg/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="https://drrrkari.com/css/style.css?2020080801" rel="stylesheet">
+    <link href="https://drrrkari.com/css/pcdefault.css?2020080802" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-2N6FWLT5X4&amp;cx=c&amp;_slc=1"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-53341711-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://drrrkari.com/js/jquery.fittext.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <script src="https://drrrkari.com/js/snow.js"></script>
+
+    <script>
+    $(function(){
+      $(".fit").fitText(2.2);
+
+      var atsnow = new ATSnow({
+        classname : 'snow',
+        count : 100,
+        interval : 80,
+        maxSize : 10,
+        minSize : 1,
+        leftMargin : 10,
+        rightMargin : 20,
+        bottomMargin : 0,
+        maxDistance : 10,
+        minDistance : 1
+      });
+      // atsnow.load();
+
+    });
+    </script>
+    <style>
+      .snow {
+      position: absolute;
+      background: #FFF;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
+      box-shadow: 0px 0px 5px 1px rgba(255, 255, 255, 0.8);
+      -moz-box-shadow: 0px 0px 5px 1px rgba(255, 255, 255, 0.8);
+      -webkit-box-shadow: 0px 0px 5px 1px rgba(255, 255, 255, 0.8);
+      }
+    </style>
+  </head>
+  <body>
+      <div class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a href="/" style="font-size:20px" class="navbar-brand"><img src="/kari002.png" style="width: 250px;" alt="デュラララチャット(仮)"></a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="/about/">デュラララチャット仮とは?</a>
+            </li>
+            <li>
+              <a href="http://drrr.swiki.jp" rel="external">人物名鑑</a>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="download">掲示板<span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="download">
+                <li><a href="http://general-bbs.drrrkari.com/" rel="nofollow">雑談掲示板</a></li>
+                <li class="divider"></li>
+                <li><a href="http://nari-bbs.drrrkari.com/" rel="nofollow">なりきり募集掲示板</a></li>
+                <li class="divider"></li>
+                <li><a href="http://nari2-bbs.drrrkari.com/" rel="nofollow">なりきり雑談掲示板</a></li>
+              </ul>
+            </li>
+            <li><a href="http://hinan.drrrkari.com/">別館チャット</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="/terms/" style="color:#ee8c00">利用規約</a>
+            </li>
+            <li>
+              <a href="mailto:support@drrrkari.com">お問い合わせ</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container" style="max-width:750px;">
+      <div class="row">
+        <div class="col-sm-6">
+          <div id="activeuser">
+          <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+            <path fill-rule="evenodd" d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path>
+          </svg>
+          <span style="vertical-align: middle;">212人がチャット参加中!</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-6">
+          <form id="loginForm" name="loginForm" class="form-horizontal" action="#" method="post">
+            <fieldset class="text-center">
+              <input type="hidden" name="language" value="ja-JP" style="">
+              <input type="hidden" name="icon" value="girl" style="">
+              <ul class="icons" style="margin-bottom:5px;">
+                <li><img src="https://drrrkari.com/css/icon_girl.png" alt="girl" class="selected"></li>
+                <li><img src="https://drrrkari.com/css/icon_moza.png" alt="moza"></li>
+                <li><img src="https://drrrkari.com/css/icon_tanaka.png" alt="tanaka"></li>
+                <li><img src="https://drrrkari.com/css/icon_kanra.png" alt="kanra"></li>
+                <li><img src="https://drrrkari.com/css/icon_usa.png" alt="usa"></li>
+                <li><img src="https://drrrkari.com/css/icon_gg.png" alt="gg"></li>
+                <li><img src="https://drrrkari.com/css/icon_orange.png" alt="orange"></li>
+                <li><img src="https://drrrkari.com/css/icon_zaika.png" alt="zaika"></li>
+                <li><img src="https://drrrkari.com/css/icon_setton.png" alt="setton"></li>
+                <li><img src="https://drrrkari.com/css/icon_zawa.png" alt="zawa"></li>
+                <li><img src="https://drrrkari.com/css/icon_neko.png" alt="neko"></li>
+                <li><img src="https://drrrkari.com/css/icon_purple.png" alt="purple"></li>
+                <li><img src="https://drrrkari.com/css/icon_kai.png" alt="kai"></li>
+                <li><img src="https://drrrkari.com/css/icon_bakyura.png" alt="bakyura"></li>
+                <li><img src="https://drrrkari.com/css/icon_neko2.png" alt="neko2"></li>
+                <li><img src="https://drrrkari.com/css/icon_numakuro.png" alt="numakuro"></li>
+                <li><img src="https://drrrkari.com/css/icon_bm.png" alt="bm"></li>
+                <li><img src="https://drrrkari.com/css/icon_bear.png" alt="bear"></li>
+                <li><img src="https://drrrkari.com/css/icon_rab.png" alt="rab"></li>
+                <li><img src="https://drrrkari.com/css/icon_nyan.png" alt="nyan"></li>
+                <li><img src="https://drrrkari.com/css/icon_muff.png" alt="muff"></li>
+                <li><img src="https://drrrkari.com/css/icon_muff_nyan.png" alt="muff_nyan"></li>
+              </ul>
+              <input type="text" id="name" name="name" value="" size="10" maxlength="34" class="form-control" placeholder="名前を入れてね" style="color: rgb(0, 0, 0); margin-bottom: 8px; width: 280px;">
+              <input type="hidden" name="login" value="login" style="">
+              <a class="bb cc" href="#" onclick="document.loginForm.submit()" style="width:280px;color:#fff">チャットをはじめる</a>
+              <input type="hidden" name="token" value="34228d1fdc4b4e02489ef7450e377700" style="">
+            </fieldset>
+          </form>
+        </div>
+
+        <div class="right-side col-sm-6 center-block" style="max-width:375px;padding: 15px 20px;">
+          <h2 style="margin-top:10px">デュラララチャットへようこそ！</h2>
+          <p class="fit" style="font-size: 15px;">デュラララチャット(仮) はデュラララ!!のアニメに登場するチャットを再現したサイトです。内緒モードやお絵描き、入室パスワードなど豊富な機能を搭載しており、話題も雑談から、なりきり、BLまで何でもありです。登録が不要で、誰でも無料で利用できます！</p>
+          <h2>チャットをはじめる</h2>
+          <p class="fit" style="overflow: hidden; font-size: 15px;">チャットをはじめる前にまず <a href="/terms/" style="color:#ee8C00">利用規約</a> を必ずお読みください。アイコンと名前を決めて「チャットをはじめる」を押すとチャットに参加できます。原作を知らない方でもお気軽にご参加ください。このサイトについて詳しく知りたい方は <a href="/about/">デュラララチャット仮とは？</a> をご覧下さい。</p>
+          <div style="height:38px;padding:5px 0;">
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://drrrkari.com" data-text="デュラララチャット(仮)は雑談やお絵かきが楽しめるチャットサービスです！" data-size="large" data-hashtags="デュラララチャット" style="float:left">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          </div>
+        </div>
+      </div>
+
+      <div class="row" style="margin-top: 10px">
+        <div class="col-sm-12" style="overflow: hidden">
+                      <!-- i-mobile for PC client script -->
+            <script type="text/javascript">
+              imobile_pid = "36163"; 
+              imobile_asid = "1708717"; 
+              imobile_width = 728; 
+              imobile_height = 90;
+            </script>
+            <script type="text/javascript" src="https://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script><script type="text/javascript" src="https://spdeliver.i-mobile.co.jp/script/adcore_pc_inline.js?20110201"></script><div id="imobile_adspotdiv1"><iframe id="imobile_adspotframe1" frameborder="no" scrolling="no" style="width: 728px;height: 90px;overflow: hidden; margin: 0px;" src="https://spsvcpc-tls.i-mobile.co.jp/ad_spot.aspx?pid=36163&amp;asid=1708717&amp;asn=1&amp;width=728&amp;height=90"></iframe></div>
+            
+          <!-- admax -->
+          <!-- script src="//adm.shinobi.jp/s/9aee7231b64da11e12b6d07281d80a73"></script> -->
+          <!-- admax -->
+                  </div>
+      </div>
+
+      <div class="row text-center" style="margin-top: 10px;">
+        <a href="https://nana-get-the-happiness.com"><img decoding="async" src="https://nana-get-the-happiness.com/wp-content/uploads/banner.png" alt="" class="wp-image-3090" srcset="https://nana-get-the-happiness.com/wp-content/uploads/banner.png 468w, https://nana-get-the-happiness.com/wp-content/uploads/banner-300x38.png 300w" sizes="(max-width: 468px) 100vw, 468px" data-eio="l" style="max-width: 100%;"></a>
+      </div>
+
+      <div class="row center-block" style="max-width:775px;">
+        <div class="col-sm-6 center-block" style="max-width:380px">
+          <h2>お絵描きが好きな人歓迎！</h2>
+          <p class="fit" style="font-size: 15px;">画像投稿機能を使うと、自分で描いたイラストをチャット上にアップロードすることができます。また、簡単なお絵描き機能もついているので、絵しとりをしたりなど遊び方の幅が広がります。掲示板ではイラスト関連のスレッドが盛り上がっているので、そちらもぜひご利用ください。</p>
+        </div>
+        <div class="col-sm-6 center-block" style="max-width:380px">
+          <h2>内緒モードを搭載!</h2>
+          <p class="fit" style="font-size: 15px;">デュラララのアニメに登場する内緒モードを再現しました。内緒モードを使うと、その人にしか見えないメッセージを送信することができます。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <footer>
+        <div id="row">
+          <div class="col-sm-12" style="padding:20px 0 20px 15px;">
+  <small>デュラララチャット(仮) Copyright © 2020 hk | アイコン協力: 白羽猫, 鳩山, 彩, 東雲, rie nakanishi, 森のサンダース, yuto, ねこのこ</small><br>
+  <small>寄付: 双生児, すっしー, あ、ヤヴァイ, ひきおた◆4YDD, うずちゃん, pom砂漠アルプス山脈, あいすん, ・に✫・❂し。♂^._.^, れぽやん, 爽ゃかｫﾚﾝｼﾞｺﾞﾐｸｽﾞ, 天獄橋蔵@魔導書等販売店, ちーぴぃ<br>
+  &nbsp;宇宙人, 烈風丸, ちたん, アマチュアwsVcE, ポテト揚げたて, NOVAうさぎ, てぃな, 幸子, 猫丸太, ばなな, さち, まり, ゆい, ちろる, にゃんちる（餃子, プラム, リラックマ, くまたん, 三井, オーキッド, なな, 吸血幼女りりむ, 本だし, でお, ＪＲ茨木, ラオ, 小森祥介, テツロウ, 簿記無職25情熱ミニマリスト, 赤城, まりん<br>
+  &nbsp;さみしい, たいち, 【善の素粒子☆引き寄せの法則】, マッツー, ばーかちゃん, コマ, ほたる, 幸, アマチュアvcQ5e, 逆襲の天邪鬼, 紫暮, Tiamo, ﾗﾈｲｼﾞｭ, もりそば, ゆーあ, 山田, かりん, トナカイ, 運営さんへ, かんう, るり, いつも有難う御座います, うさださん, 美鶴, 宮城, つきのなぎさ, 沖アミ, メンディス, マスラオ, マスばなな, 抹茶, ルーツ, なず, ししまる, たろう, 匿名, 罪歌, 臨夜</small><br><small>ひなの（お買物はぜひ送料無料のヨドバシドットコムで）, リーキーガット海老岡, ネカマ侍, わこゆ, 神無月ルイ, フルーツ, 平和主義の名無し, るるくす</small><br>
+  <small>Durarara-like-chat Copyright © 2010 <a href="http://suin.asia/">Suin</a> | <a href="http://darasu.net">© Plato</a> | <a href="https://code.google.com/p/drrr-like-chat/">get this chat?</a></small>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script>
+      $("#loginForm img").on('click', function(){
+        $("input[name='icon']").val($(this).attr('alt'));
+        $("#loginForm img.selected").removeClass("selected");
+        $(this).addClass("selected");
+      });
+    </script>
+  <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;426ab2e8e45b4fb0805875510fbfb76d&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fdrrrkari.com" title="Twitter settings iframe" style="display: none;"></iframe><iframe src="https://xid.i-mobile.co.jp/RestoreXidToMediaStorage.html" name="restoreXidFrame" frameborder="0" scrolling="no" width="0" height="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" style="visibility: hidden; padding: 0px; display: none;"></iframe></body></html>

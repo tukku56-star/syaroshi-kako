@@ -1,0 +1,1944 @@
+[
+  {
+    "captured_at": "2025-11-22T09:24:30.030750",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:31.541113",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:33.354671",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:35.078620",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:39.517252",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:43.505715",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:45.265535",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:47.012961",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:48.531523",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:50.580116",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:52.039722",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:53.842727",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771053,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763770684
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:22.242135",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:25.939147",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:27.439142",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:29.251013",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:31.038206",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:32.560529",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:34.279479",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:36.007262",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:37.763838",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:39.306144",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:41.123713",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:42.860974",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:44.636033",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:46.364941",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:50.646348",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:54.620876",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:56.074806",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:25:57.903739",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "50代雑談",
+      "create": 1763770684,
+      "update": 1763771106,
+      "type": 3,
+      "limit": 2,
+      "host": "2153113b6e239abb23df03448730c100",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "oPv/7OzLEZIfQJGULMVzBO6ViNhABGCmhbiMbPrN56VjERiISv51uZMhDk+UU1pt",
+      "users": [
+        {
+          "name": "くに",
+          "id": "2153113b6e239abb23df03448730c100",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763771106.262189
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771053
+        }
+      ],
+      "talks": [
+        {
+          "id": "7ba5176ce8933f7c76110241df5b6779",
+          "uid": "0",
+          "name": "くに",
+          "message": "ーー くにさんが入室しました",
+          "icon": "",
+          "time": 1763770684
+        },
+        {
+          "id": "e909ddf6530ca4db84f45694d4a94497",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771053
+        },
+        {
+          "id": "a4bf3b04d888ccbc2f5004b4c574d6b3",
+          "uid": "2153113b6e239abb23df03448730c100",
+          "name": "くに",
+          "message": "おはようございます",
+          "icon": "tanaka",
+          "time": 1763771106
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:28:20.295798",
+    "room_id": "17d5d1689d1239034ea78c38866abff5",
+    "room_name": "50代雑談",
+    "bot_name": "Vortex",
+    "data": {
+      "name": "40↑",
+      "create": 1763771265,
+      "update": 1763771297,
+      "type": 0,
+      "limit": 3,
+      "host": "35b94081fcfb7bad9a6de16a0cd2d207",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "ORQi1QEw6jZPL1ZSQcw+iOSXJCYFUC9Ssrm3d48HjGwaDj0/vFa+WPwelw61f1XQ",
+      "users": [
+        {
+          "name": "りのあ",
+          "id": "35b94081fcfb7bad9a6de16a0cd2d207",
+          "icon": "neko",
+          "trip": "GF.iK9gBq2",
+          "update": 1763771265
+        },
+        {
+          "name": "Vortex",
+          "id": "15c95b3ad64112dd02447120a4c7eeb4",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771297
+        }
+      ],
+      "talks": [
+        {
+          "id": "f779c7ef771f59925dbc1a4638aabcb8",
+          "uid": "0",
+          "name": "りのあ",
+          "message": "ーー りのあさんが入室しました",
+          "icon": "",
+          "time": 1763771265
+        },
+        {
+          "id": "7a25ad140026c15eff37b8e83cfd1fbb",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Vortex",
+          "message": "ーー Vortexさんが入室しました",
+          "icon": "",
+          "time": 1763771297
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

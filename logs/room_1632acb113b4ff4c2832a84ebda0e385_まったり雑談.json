@@ -1,0 +1,4187 @@
+[
+  {
+    "captured_at": "2025-11-22T09:32:17.428013",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771533,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:18.616397",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771533,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:19.365423",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771533,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:20.280654",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771533,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:20.793184",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771533,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:21.905773",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771533,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:22.701088",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771541,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:23.618497",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771541,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:24.157387",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771541,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771500.284861
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:25.234154",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:25.990743",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Core49",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:26.005103",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:26.984355",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:27.512879",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:27.533804",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Core49",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:28.557544",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:29.182278",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:29.275660",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Core49",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:30.580573",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:30.957967",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:30.977379",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Core49",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:31.708205",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:32.564257",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:32.583355",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Core49",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:33.308244",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:34.225617",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:34.273951",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Core49",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:35.447976",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771544,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        },
+        {
+          "name": "Core49",
+          "id": "46c908242b30b92e641ba8cfbb94c429",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771541
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:35.999509",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771555,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        },
+        {
+          "id": "452f84c33be2867359b7d24b61980bcb",
+          "uid": "0",
+          "name": "Core49",
+          "message": "ーー Core49さんの接続が切れました",
+          "icon": "",
+          "time": 1763771555
+        }
+      ],
+      "pm": [],
+      "blocks": [
+        "Wfg0oGmyVetGQAXPwPdrqg=="
+      ],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:37.398786",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "nosea89",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771555,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        },
+        {
+          "id": "452f84c33be2867359b7d24b61980bcb",
+          "uid": "0",
+          "name": "Core49",
+          "message": "ーー Core49さんの接続が切れました",
+          "icon": "",
+          "time": 1763771555
+        }
+      ],
+      "pm": [],
+      "blocks": [
+        "Wfg0oGmyVetGQAXPwPdrqg=="
+      ],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:40.502352",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771555,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        },
+        {
+          "name": "nosea89",
+          "id": "0295714eae34814213afb91024ff02fb",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771533
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        },
+        {
+          "id": "452f84c33be2867359b7d24b61980bcb",
+          "uid": "0",
+          "name": "Core49",
+          "message": "ーー Core49さんの接続が切れました",
+          "icon": "",
+          "time": 1763771555
+        }
+      ],
+      "pm": [],
+      "blocks": [
+        "Wfg0oGmyVetGQAXPwPdrqg=="
+      ],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:32:42.840361",
+    "room_id": "1632acb113b4ff4c2832a84ebda0e385",
+    "room_name": "まったり雑談",
+    "bot_name": "Bot762",
+    "data": {
+      "name": "まったり雑談",
+      "create": 1763771413,
+      "update": 1763771560,
+      "type": 0,
+      "limit": 5,
+      "host": "f9171e095ecfdb4c923f683741599c18",
+      "language": "ja-JP",
+      "knock": true,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "DVMAHhhNcyVhuy+yKg5zaM5RrDwy3oRNq/mgV0aU4J0cDoBUAI++uVqntH2ZPrEA",
+      "users": [
+        {
+          "name": "黎",
+          "id": "f9171e095ecfdb4c923f683741599c18",
+          "icon": "muff_nyan",
+          "trip": "BJR709pTwU",
+          "update": 1763771531.853392
+        },
+        {
+          "name": "こうん",
+          "id": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "icon": "bm",
+          "trip": "",
+          "update": 1763771544.259817
+        },
+        {
+          "name": "Bot762",
+          "id": "ea9af81b2a96a8ff0b73a947211505da",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771531
+        }
+      ],
+      "talks": [
+        {
+          "id": "085f705a1f1e433427a6a608f2512440",
+          "uid": "0",
+          "name": "黎",
+          "message": "ーー 黎さんが入室しました",
+          "icon": "",
+          "time": 1763771413
+        },
+        {
+          "id": "bedb6c4dabf1e9d7221b8a13b68f53dd",
+          "type": "enter",
+          "uid": "0",
+          "encip": "MoCrwlHK0JTLv9LSYPKqMPtmgSdfODjE5xTp4ruGwGoPGXa2tEsMHzF6WbOY8O3J",
+          "name": "こうん",
+          "message": "ーー こうんさんが入室しました",
+          "icon": "",
+          "time": 1763771496
+        },
+        {
+          "id": "73c3c7a175d9a6adaf491076ea00c0e3",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "うむ",
+          "icon": "bm",
+          "time": 1763771500
+        },
+        {
+          "id": "41b0b7b6df23c149ba4b61aa5d4510f1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Bot762",
+          "message": "ーー Bot762さんが入室しました",
+          "icon": "",
+          "time": 1763771531
+        },
+        {
+          "id": "3738636da3d69385422c22ff25215c35",
+          "uid": "f9171e095ecfdb4c923f683741599c18",
+          "name": "黎",
+          "message": "こうんか",
+          "icon": "muff_nyan",
+          "time": 1763771531
+        },
+        {
+          "id": "fd82e4d6cd787b4e9006c169e7aa73f5",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "nosea89",
+          "message": "ーー nosea89さんが入室しました",
+          "icon": "",
+          "time": 1763771533
+        },
+        {
+          "id": "f5a46b7aef0245a53d7883c1b29c764a",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Core49",
+          "message": "ーー Core49さんが入室しました",
+          "icon": "",
+          "time": 1763771541
+        },
+        {
+          "id": "045d0dd254d5ba169ff594f9a6a71317",
+          "uid": "0d4a6601de4d4c1a813e57facd02c1fe",
+          "name": "こうん",
+          "message": "👊",
+          "icon": "bm",
+          "time": 1763771544
+        },
+        {
+          "id": "452f84c33be2867359b7d24b61980bcb",
+          "uid": "0",
+          "name": "Core49",
+          "message": "ーー Core49さんの接続が切れました",
+          "icon": "",
+          "time": 1763771555
+        },
+        {
+          "id": "47e1cfe30de0815bce1eb7f1b7d60571",
+          "uid": "0",
+          "name": "nosea89",
+          "message": "ーー nosea89さんの接続が切れました",
+          "icon": "",
+          "time": 1763771560
+        }
+      ],
+      "pm": [],
+      "blocks": [
+        "Wfg0oGmyVetGQAXPwPdrqg==",
+        "Wfg0oGmyVetGQAXPwPdrqg=="
+      ],
+      "error": 0
+    }
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "captured_at": "2025-11-22T09:24:49.516782",
+    "room_id": "d2cacafd64fde01554fdca3d57f5a8b7",
+    "room_name": "直哉募/槍可",
+    "bot_name": "River50",
+    "data": {
+      "name": "直哉募/槍可",
+      "create": 1763770952,
+      "update": 1763771084,
+      "type": 1,
+      "limit": 2,
+      "host": "07a393ce2b38e5e5c5edc22ab24e2fd5",
+      "language": "ja-JP",
+      "knock": false,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "QmuCH6bjv2U1ZvhaM1e6+g==",
+      "users": [
+        {
+          "name": "禪院真希",
+          "id": "07a393ce2b38e5e5c5edc22ab24e2fd5",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763770952
+        },
+        {
+          "name": "River50",
+          "id": "aed46ee362f409fc8c54f519ba4e5c6c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771084
+        }
+      ],
+      "talks": [
+        {
+          "id": "6564a0f4bfa3e945ad0ae605790c0977",
+          "uid": "0",
+          "name": "禪院真希",
+          "message": "ーー 禪院真希さんが入室しました",
+          "icon": "",
+          "time": 1763770952
+        },
+        {
+          "id": "7d6cdb5557792e4332f07e7cf9d671e7",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "River50",
+          "message": "ーー River50さんが入室しました",
+          "icon": "",
+          "time": 1763771084
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:50.990893",
+    "room_id": "d2cacafd64fde01554fdca3d57f5a8b7",
+    "room_name": "直哉募/槍可",
+    "bot_name": "River50",
+    "data": {
+      "name": "直哉募/槍可",
+      "create": 1763770952,
+      "update": 1763771084,
+      "type": 1,
+      "limit": 2,
+      "host": "07a393ce2b38e5e5c5edc22ab24e2fd5",
+      "language": "ja-JP",
+      "knock": false,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "QmuCH6bjv2U1ZvhaM1e6+g==",
+      "users": [
+        {
+          "name": "禪院真希",
+          "id": "07a393ce2b38e5e5c5edc22ab24e2fd5",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763770952
+        },
+        {
+          "name": "River50",
+          "id": "aed46ee362f409fc8c54f519ba4e5c6c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771084
+        }
+      ],
+      "talks": [
+        {
+          "id": "6564a0f4bfa3e945ad0ae605790c0977",
+          "uid": "0",
+          "name": "禪院真希",
+          "message": "ーー 禪院真希さんが入室しました",
+          "icon": "",
+          "time": 1763770952
+        },
+        {
+          "id": "7d6cdb5557792e4332f07e7cf9d671e7",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "River50",
+          "message": "ーー River50さんが入室しました",
+          "icon": "",
+          "time": 1763771084
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:24:52.797244",
+    "room_id": "d2cacafd64fde01554fdca3d57f5a8b7",
+    "room_name": "直哉募/槍可",
+    "bot_name": "River50",
+    "data": {
+      "name": "直哉募/槍可",
+      "create": 1763770952,
+      "update": 1763771084,
+      "type": 1,
+      "limit": 2,
+      "host": "07a393ce2b38e5e5c5edc22ab24e2fd5",
+      "language": "ja-JP",
+      "knock": false,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "QmuCH6bjv2U1ZvhaM1e6+g==",
+      "users": [
+        {
+          "name": "禪院真希",
+          "id": "07a393ce2b38e5e5c5edc22ab24e2fd5",
+          "icon": "setton",
+          "trip": "",
+          "update": 1763770952
+        },
+        {
+          "name": "River50",
+          "id": "aed46ee362f409fc8c54f519ba4e5c6c",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763771084
+        }
+      ],
+      "talks": [
+        {
+          "id": "6564a0f4bfa3e945ad0ae605790c0977",
+          "uid": "0",
+          "name": "禪院真希",
+          "message": "ーー 禪院真希さんが入室しました",
+          "icon": "",
+          "time": 1763770952
+        },
+        {
+          "id": "7d6cdb5557792e4332f07e7cf9d671e7",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "River50",
+          "message": "ーー River50さんが入室しました",
+          "icon": "",
+          "time": 1763771084
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

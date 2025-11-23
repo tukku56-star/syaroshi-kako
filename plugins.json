@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Log Viewer",
+        "description": "Real-time chat log viewer with search and auto-update.",
+        "entry_point": "c:\\Users\\admin\\.gemini\\antigravity\\scratch\\scripts\\log_viewer.py"
+    },
+    {
+        "name": "Folder Organizer",
+        "description": "Organizes files in the scratch directory into appropriate folders.",
+        "entry_point": "c:\\Users\\admin\\.gemini\\antigravity\\scratch\\scripts\\folder_organizer.py"
+    },
+    {
+        "name": "Plugin Launcher",
+        "description": "Console menu to launch other plugins.",
+        "entry_point": "c:\\Users\\admin\\.gemini\\antigravity\\scratch\\plugin_launcher.py"
+    }
+]

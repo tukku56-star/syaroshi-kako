@@ -1,0 +1,3188 @@
+[
+  {
+    "captured_at": "2025-11-22T16:14:41.492223",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795678,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795651
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:14:43.203032",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795678,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795651
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:14:46.098467",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795678,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795651
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:14:48.348414",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795678,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795651
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:14:50.591053",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795678,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795651
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:14:54.982401",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795678,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795651
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:04.891115",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:05.938518",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:08.692572",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:09.680412",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:11.955212",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:12.803028",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:14.743874",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:17.285181",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:18.093389",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:20.231271",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:20.288231",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:22.694755",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:24.394204",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:27.112965",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:28.145648",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:30.111575",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:31.110242",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:34.262916",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:37.059906",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:38.176345",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:40.730845",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:41.849708",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:44.470304",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:46.242798",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:47.283387",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:47.368984",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:52.227620",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:53.133360",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:56.530000",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:56.581679",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:56.743678",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:15:56.786381",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:01.250014",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:03.104382",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:03.140210",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:03.183071",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:03.428507",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:06.904958",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:07.765251",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:07.802776",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:07.877277",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:11.506698",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T16:16:11.623222",
+    "room_id": "6d495880b0d231f5393316ac18674412",
+    "room_name": "一服中(´ー｀)y-~~",
+    "bot_name": "rin_90",
+    "data": {
+      "name": "一服中(´ー｀)y-~~",
+      "create": 1763795651,
+      "update": 1763795690,
+      "type": 0,
+      "limit": 3,
+      "host": "1657e306388713f2678ecd3ea83b711a",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "UW+7HXYAds/Sqshev7Y7DA==",
+      "users": [
+        {
+          "name": "長谷川真弓",
+          "id": "1657e306388713f2678ecd3ea83b711a",
+          "icon": "zaika",
+          "trip": "",
+          "update": 1763795690.691162
+        },
+        {
+          "name": "rin_90",
+          "id": "060593b41d19433a37f9f17c67dfc210",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763795678
+        }
+      ],
+      "talks": [
+        {
+          "id": "3c36deba3ea2b581881726c33ec622d8",
+          "uid": "0",
+          "name": "長谷川真弓",
+          "message": "ーー 長谷川真弓さんが入室しました",
+          "icon": "",
+          "time": 1763795651
+        },
+        {
+          "id": "a3c03d1b1fff9af8257cb5ae1e920cf2",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "rin_90",
+          "message": "ーー rin_90さんが入室しました",
+          "icon": "",
+          "time": 1763795678
+        },
+        {
+          "id": "646e1104ac316d60383eebe4e94f3b50",
+          "uid": "1657e306388713f2678ecd3ea83b711a",
+          "name": "長谷川真弓",
+          "message": "こんちゃ＾＾",
+          "icon": "zaika",
+          "time": 1763795690
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

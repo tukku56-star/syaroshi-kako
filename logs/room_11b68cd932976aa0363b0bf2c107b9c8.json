@@ -1,0 +1,2662 @@
+[
+  {
+    "captured_at": "2025-11-22T09:22:32.047787",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:32.921930",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:33.563277",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:34.587522",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:35.309980",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:36.270361",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:37.046156",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:38.001299",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:38.943996",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:39.586525",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:40.404037",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:41.311008",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:42.151996",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:42.964467",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:43.858203",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:44.865903",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:45.669201",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:46.301736",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:47.255026",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:48.290924",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:49.058184",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:49.995973",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:50.857391",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:51.659599",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:53.009691",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:53.279414",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:55.133630",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:55.589265",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:57.243501",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:57.898690",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:59.432373",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:22:59.833108",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:23:00.655719",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:23:01.394075",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "Blade4",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T09:23:01.935794",
+    "room_id": "11b68cd932976aa0363b0bf2c107b9c8",
+    "room_name": "雑談",
+    "bot_name": "gobox36",
+    "data": {
+      "name": "雑談",
+      "create": 1763770924,
+      "update": 1763770950,
+      "type": 0,
+      "limit": 5,
+      "host": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+      "language": "ja-JP",
+      "knock": true,
+      "image": false,
+      "recaptcha": false,
+      "hostip": "B4DNSfpH4zU0jPsEDaekCcE6fOUTTj32quMFs3KqWVSXQ9FOlm5EvbSiMpqZ/zeO",
+      "users": [
+        {
+          "name": "守錢奴",
+          "id": "5c60acf896cb3bd0b4cca5f59e8eb5a3",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770924
+        },
+        {
+          "name": "gobox36",
+          "id": "d29c99d5f18f77b3bbd506aec3e9f301",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770949
+        },
+        {
+          "name": "Blade4",
+          "id": "c0fbc7f768f26e2f213ce3fbe276c822",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770950
+        }
+      ],
+      "talks": [
+        {
+          "id": "cb5cb328b81887c9bdc1a889d986a9e7",
+          "uid": "0",
+          "name": "守錢奴",
+          "message": "ーー 守錢奴さんが入室しました",
+          "icon": "",
+          "time": 1763770924
+        },
+        {
+          "id": "936f5b47d8d68b584e14d4d52dfeb488",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "gobox36",
+          "message": "ーー gobox36さんが入室しました",
+          "icon": "",
+          "time": 1763770949
+        },
+        {
+          "id": "0c15fdf86ea7fcbd518e6431178a6ee1",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "Blade4",
+          "message": "ーー Blade4さんが入室しました",
+          "icon": "",
+          "time": 1763770950
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

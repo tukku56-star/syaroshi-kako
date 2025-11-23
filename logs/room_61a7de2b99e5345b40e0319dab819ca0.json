@@ -1,0 +1,98 @@
+[
+  {
+    "captured_at": "2025-11-22T09:20:27.311123",
+    "room_id": "61a7de2b99e5345b40e0319dab819ca0",
+    "room_name": "まんこビラビラくぱあ",
+    "bot_name": "r00n9ua65",
+    "data": {
+      "name": "５０代～６０代まったり部屋",
+      "create": 1763769728,
+      "update": 1763770823,
+      "type": 0,
+      "limit": 3,
+      "host": "34e1198ac8e41d308e2ed6d1386458b6",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "MwxCv857SUnPbyBayrurcouSOkrlTHxtIKz+ydctyJBmhKt6TFhL8tl+IcpEajVK",
+      "users": [
+        {
+          "name": "こうたろう",
+          "id": "34e1198ac8e41d308e2ed6d1386458b6",
+          "icon": "numakuro",
+          "trip": "C/sWVmP202",
+          "update": 1763769728
+        },
+        {
+          "name": "stkfzwn",
+          "id": "02d6d133c420228c198d06a96b74de93",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770611
+        },
+        {
+          "name": "r00n9ua65",
+          "id": "d3e68ce49d2711c3ac273681150f8295",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763770823
+        }
+      ],
+      "talks": [
+        {
+          "id": "1be1e9540e46cc538eb87702f723e4a4",
+          "uid": "0",
+          "name": "こうたろう",
+          "message": "ーー こうたろうさんが入室しました",
+          "icon": "",
+          "time": 1763769728
+        },
+        {
+          "id": "01f1ca8071ed091b3d8b9ce38cf45d91",
+          "type": "enter",
+          "uid": "0",
+          "encip": "iMoOQKTLYFcsid/HTaVb/A==",
+          "name": "ドルビーデジタルすまんかった",
+          "message": "ーー ドルビーデジタルすまんかったさんが入室しました",
+          "icon": "",
+          "time": 1763769967
+        },
+        {
+          "id": "4ced28d43a2b4f4219124a04158ac690",
+          "type": "exit",
+          "uid": "0",
+          "encip": "iMoOQKTLYFcsid/HTaVb/A==",
+          "name": "ドルビーデジタルすまんかった",
+          "message": "ーー ドルビーデジタルすまんかったさんが退室しました",
+          "icon": "",
+          "time": 1763769970
+        },
+        {
+          "id": "fac7c5ed59d4fafaada26e037fcd543b",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "stkfzwn",
+          "message": "ーー stkfzwnさんが入室しました",
+          "icon": "",
+          "time": 1763770611
+        },
+        {
+          "id": "99f2785315af33a5f7b45a18a6256405",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "r00n9ua65",
+          "message": "ーー r00n9ua65さんが入室しました",
+          "icon": "",
+          "time": 1763770823
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]

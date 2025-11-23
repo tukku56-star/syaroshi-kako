@@ -1,0 +1,206 @@
+{
+  "room_id": "5f390cf4f9dd4479b0eccdb212b7fbca",
+  "room_name": "ジャパメタのチカラ",
+  "last_updated": "2025-11-23T13:24:53.736357",
+  "total_messages": 18,
+  "messages": [
+    {
+      "id": "0c1f0570ddcd8b490bde644af3467804",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "やっぱり",
+      "time": 1763871645,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736269"
+    },
+    {
+      "id": "690b8fdea619d902bf010f0cb4e4ef49",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "高崎晃ですか",
+      "time": 1763871651,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736282"
+    },
+    {
+      "id": "4207b2719ef987bda76c3aa29f1d560a",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "まぁ",
+      "time": 1763871655,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736287"
+    },
+    {
+      "id": "5cb0a61d87a8b0297e7ddf9eb88329a4",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "そこは外せないよね",
+      "time": 1763871662,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736291"
+    },
+    {
+      "id": "a5fc1c14defdd94f5f0b056c132eda91",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "あなたはどれがいい",
+      "time": 1763871676,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736295"
+    },
+    {
+      "id": "2775a60a427d3f3a82f7bc66482d4775",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "どれとは",
+      "time": 1763871693,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736299"
+    },
+    {
+      "id": "7b68f4f2035314748e87bf5b43324b4b",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "ジャパメタなら",
+      "time": 1763871702,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736304"
+    },
+    {
+      "id": "a2b56bd225ba6f7e7327bbdb20f1a0f7",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "やっぱラウドネス",
+      "time": 1763871714,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736308"
+    },
+    {
+      "id": "c57a7652ac440adba897ffb627250923",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "えｗ",
+      "time": 1763871720,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736312"
+    },
+    {
+      "id": "97e7aac0795fa6a4c0abea835563d252",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "ラウドネスがいいという話",
+      "time": 1763871731,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736316"
+    },
+    {
+      "id": "aaa1fa3ec85b188b2f7664542c30e24e",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "うん",
+      "time": 1763871761,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736320"
+    },
+    {
+      "id": "b06787923f15578890d9af116e4d3899",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "それと、FSB",
+      "time": 1763871768,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736324"
+    },
+    {
+      "id": "4fcfea31a2f6370038308e8bb4b2032d",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "樋口宗孝って",
+      "time": 1763871800,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736328"
+    },
+    {
+      "id": "43280794db276e4de12aa08da7762eda",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "うん",
+      "time": 1763871806,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736332"
+    },
+    {
+      "id": "5cd20aa5277a2ec62c0a3287d3cbad36",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "ビーズの松本さんと仲良かったんだね",
+      "time": 1763871819,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736336"
+    },
+    {
+      "id": "db864a78a1e9e51d0676157f3f466d87",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "そうなんだ",
+      "time": 1763871829,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736340"
+    },
+    {
+      "id": "92067d42fc5009d133790a6daedcf697",
+      "uid": "f55cfaa46ac0628602cfbec218d3c419",
+      "name": "さ",
+      "message": "ソロアルバムで叩いてるし",
+      "time": 1763871839,
+      "icon": "tanaka",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736344"
+    },
+    {
+      "id": "18202d14e0dcf19f46c9e99579a63a67",
+      "uid": "32f31d68cc20937a935651c51b485d0a",
+      "name": "スルメ",
+      "message": "ふむ",
+      "time": 1763871850,
+      "icon": "zawa",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:24:53.736349"
+    }
+  ]
+}

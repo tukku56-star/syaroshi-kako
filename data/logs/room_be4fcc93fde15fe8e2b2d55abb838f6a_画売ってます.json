@@ -1,0 +1,96 @@
+{
+  "room_id": "be4fcc93fde15fe8e2b2d55abb838f6a",
+  "room_name": "画売ってます",
+  "last_updated": "2025-11-23T13:25:36.542721",
+  "total_messages": 8,
+  "messages": [
+    {
+      "id": "6fe7686d0d92f06650cffe2ca187ce4e",
+      "uid": "97bea52e7c306f87964dc0b7309e0671",
+      "name": "OMEKO",
+      "message": "/image",
+      "time": 1763871586,
+      "icon": "kai",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:12.464412"
+    },
+    {
+      "id": "d826d06acdd68f736355a1486c45b4df",
+      "uid": "97bea52e7c306f87964dc0b7309e0671",
+      "name": "OMEKO",
+      "message": "/image",
+      "time": 1763871597,
+      "icon": "kai",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:12.464425"
+    },
+    {
+      "id": "bda451b8428b044ce013a1f8d01ded6f",
+      "uid": "97bea52e7c306f87964dc0b7309e0671",
+      "name": "OMEKO",
+      "message": "/image",
+      "time": 1763871609,
+      "icon": "kai",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:12.464431"
+    },
+    {
+      "id": "c440c879bafa715dde9f290ea8d7b2d4",
+      "uid": "92807b89563a4f177638ef602b3212a6",
+      "name": "画パン",
+      "message": "/image",
+      "time": 1763871654,
+      "icon": "bear",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:12.464437"
+    },
+    {
+      "id": "64be282a3c56aee1f072a88b2b7efb9e",
+      "uid": "92807b89563a4f177638ef602b3212a6",
+      "name": "画パン",
+      "message": "この絵さ",
+      "time": 1763871883,
+      "icon": "bear",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:12.464440"
+    },
+    {
+      "id": "660985e3997fceab8dd682d6a245f90b",
+      "uid": "92807b89563a4f177638ef602b3212a6",
+      "name": "画パン",
+      "message": "出せるって何か使えんのかな",
+      "time": 1763871905,
+      "icon": "bear",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:12.464446"
+    },
+    {
+      "id": "fd8a0e7269ab822366b805eb188f2bd4",
+      "uid": "02db19e782b8762f28286ad3430c9143",
+      "name": "にぎ",
+      "message": "画伯？",
+      "time": 1763871914,
+      "icon": "setton",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:15.276254"
+    },
+    {
+      "id": "4b0aa0da9b6de46c6e55311b9fcbf0b8",
+      "uid": "02db19e782b8762f28286ad3430c9143",
+      "name": "にぎ",
+      "message": "売れた？",
+      "time": 1763871935,
+      "icon": "setton",
+      "encip": "",
+      "trip": "",
+      "captured_at": "2025-11-23T13:25:36.542704"
+    }
+  ]
+}

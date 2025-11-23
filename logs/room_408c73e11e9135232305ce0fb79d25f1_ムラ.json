@@ -1,0 +1,3166 @@
+[
+  {
+    "captured_at": "2025-11-22T12:41:32.890999",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:35.100473",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:36.283745",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:38.209780",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:39.782526",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:41.566625",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:43.332403",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:44.912894",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:46.639257",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:48.314908",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:50.064148",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:51.735004",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:53.276115",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:55.116263",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:57.191975",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:41:58.454103",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:00.496762",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782890,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782413
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:02.014201",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:03.797978",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:05.302431",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:07.072058",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:08.851058",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:10.595368",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:11.962911",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:13.820609",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:15.608543",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:17.266649",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:19.053191",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:20.848175",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:22.493221",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:24.023836",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:25.771316",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:27.776095",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:29.395074",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:31.052546",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:32.909741",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:34.463518",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:36.005483",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:37.842966",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:40.511936",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:42.227230",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:43.314397",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:44.747085",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:46.357563",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:47.981847",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:49.611749",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:51.573599",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:53.149855",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:54.962152",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  },
+  {
+    "captured_at": "2025-11-22T12:42:56.567377",
+    "room_id": "408c73e11e9135232305ce0fb79d25f1",
+    "room_name": "ムラ",
+    "bot_name": "5m5822b",
+    "data": {
+      "name": "ムラ",
+      "create": 1763782413,
+      "update": 1763782921,
+      "type": 3,
+      "limit": 2,
+      "host": "ed4716af4684fbca3e42296066aee738",
+      "language": "ja-JP",
+      "knock": false,
+      "image": true,
+      "recaptcha": false,
+      "hostip": "2Qlqy0prjcFs8/BAKKI2sw==",
+      "users": [
+        {
+          "name": "たか",
+          "id": "ed4716af4684fbca3e42296066aee738",
+          "icon": "tanaka",
+          "trip": "",
+          "update": 1763782921.755437
+        },
+        {
+          "name": "5m5822b",
+          "id": "d94e64bb5e36d7291239a029556a15f0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "icon": "girl",
+          "trip": "",
+          "update": 1763782890
+        }
+      ],
+      "talks": [
+        {
+          "id": "91302d63dbeb69ff24e662150c75b895",
+          "uid": "0",
+          "name": "たか",
+          "message": "ーー たかさんが入室しました",
+          "icon": "",
+          "time": 1763782413
+        },
+        {
+          "id": "c0f4ed5e4b6b08968638000c61e54d3e",
+          "type": "enter",
+          "uid": "0",
+          "encip": "Wfg0oGmyVetGQAXPwPdrqg==",
+          "name": "5m5822b",
+          "message": "ーー 5m5822bさんが入室しました",
+          "icon": "",
+          "time": 1763782890
+        },
+        {
+          "id": "e173b115b2090432554356fcce00bfc0",
+          "uid": "ed4716af4684fbca3e42296066aee738",
+          "name": "たか",
+          "message": "こんにちは",
+          "icon": "tanaka",
+          "time": 1763782921
+        }
+      ],
+      "pm": [],
+      "error": 0
+    }
+  }
+]
