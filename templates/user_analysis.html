@@ -122,6 +122,76 @@
             cursor: pointer;
         }
 
+        /* Controls Section */
+        .controls-section {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .control-label {
+            font-weight: bold;
+            color: #4b5563;
+        }
+
+        .date-input {
+            padding: 8px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+        }
+
+        .preset-btn {
+            padding: 6px 12px;
+            background: #f3f4f6;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+        }
+
+        .preset-btn:hover {
+            background: #e5e7eb;
+        }
+
+        .radio-group {
+            display: flex;
+            gap: 15px;
+        }
+
+        .radio-label {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            cursor: pointer;
+        }
+
+        .update-btn {
+            padding: 8px 20px;
+            background: #764ba2;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            margin-left: auto;
+        }
+
+        .update-btn:hover {
+            background: #6b4292;
+        }
+
         /* Results Grid */
         .results {
             display: grid;
@@ -314,6 +384,16 @@
             .results {
                 grid-template-columns: 1fr;
             }
+
+            .controls-section {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .update-btn {
+                margin-left: 0;
+                width: 100%;
+            }
         }
     </style>
 </head>
@@ -349,6 +429,26 @@
 
         <!-- Ranking Tab -->
         <div id="ranking" class="tab-content">
+            <div class="controls-section">
+                <div class="control-group">
+                    <span class="control-label">期間:</span>
+                    <input type="date" id="startDate" class="date-input">
+                    <span>〜</span>
+                    <input type="date" id="endDate" class="date-input">
+                    <button class="preset-btn" onclick="setDatePreset('today')">今日</button>
+                    <button class="preset-btn" onclick="setDatePreset('yesterday')">昨日</button>
+                    <button class="preset-btn" onclick="setDatePreset('all')">全期間</button>
+                </div>
+                <div class="control-group">
+                    <span class="control-label">集計:</span>
+                    <div class="radio-group">
+                        <label class="radio-label"><input type="radio" name="rankType" value="uid" checked> UID別</label>
+                        <label class="radio-label"><input type="radio" name="rankType" value="encip"> encip別</label>
+                    </div>
+                </div>
+                <button class="update-btn" onclick="loadRanking()">更新</button>
+            </div>
+
             <div class="card full-width">
                 <h3>👑 発言数ランキング (TOP 100)</h3>
                 <div id="rankingList" class="loading">読み込み中...</div>
@@ -383,6 +483,29 @@
             if (tabId === 'insights') loadInsights();
         }
 
+        // Date Presets
+        function setDatePreset(preset) {
+            const today = new Date();
+            const startInput = document.getElementById('startDate');
+            const endInput = document.getElementById('endDate');
+
+            if (preset === 'all') {
+                startInput.value = '';
+                endInput.value = '';
+            } else if (preset === 'today') {
+                const str = today.toISOString().split('T')[0];
+                startInput.value = str;
+                endInput.value = str;
+            } else if (preset === 'yesterday') {
+                const yest = new Date(today);
+                yest.setDate(today.getDate() - 1);
+                const str = yest.toISOString().split('T')[0];
+                startInput.value = str;
+                endInput.value = str;
+            }
+            loadRanking();
+        }
+
         // Search Function
         async function performSearch() {
             const query = document.getElementById('uidInput').value.trim();
@@ -392,7 +515,6 @@
             container.innerHTML = '<div class="loading">🔄 検索中...</div>';
 
             try {
-                // First, try to search using the search API
                 const searchRes = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
                 const candidates = await searchRes.json();
 
@@ -402,10 +524,8 @@
                 }
 
                 if (candidates.length === 1) {
-                    // Exact match or only one result -> Show profile directly
                     loadUserProfile(candidates[0].uid);
                 } else {
-                    // Multiple matches -> Show list
                     let html = '<div class="card full-width"><h3>🔍 検索結果 (' + candidates.length + '件)</h3><div class="candidate-list">';
                     candidates.forEach(c => {
                         html += `
@@ -486,13 +606,26 @@
         // Load Ranking
         async function loadRanking() {
             const container = document.getElementById('rankingList');
+            const start = document.getElementById('startDate').value;
+            const end = document.getElementById('endDate').value;
+            const type = document.querySelector('input[name="rankType"]:checked').value;
+
+            container.innerHTML = '<div class="loading">読み込み中...</div>';
+
             try {
-                const data = await fetch('/api/analysis/ranking').then(r => r.json());
+                let url = `/api/analysis/ranking?type=${type}`;
+                if (start) url += `&start=${start}`;
+                if (end) url += `&end=${end}`;
+
+                const data = await fetch(url).then(r => r.json());
 
                 if (data.length === 0) {
                     container.innerHTML = '<div class="empty-state">データがありません</div>';
                     return;
                 }
+
+                const idLabel = type === 'encip' ? 'encip' : 'UID';
+                const relatedLabel = type === 'encip' ? '関連UID' : '関連encip';
 
                 let html = `
                     <table class="ranking-table">
@@ -502,7 +635,7 @@
                                 <th>名前 (代表)</th>
                                 <th>発言数</th>
                                 <th>最終観測</th>
-                                <th>UID</th>
+                                <th>${idLabel}</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -510,6 +643,9 @@
 
                 data.forEach((user, index) => {
                     const rankClass = index < 3 ? `rank-${index + 1}` : '';
+                    const idDisplay = user.id.length > 20 ? user.id.substring(0, 8) + '...' : user.id;
+                    const clickAction = type === 'uid' ? `loadUserProfile('${user.id}')` : `searchUserByEncip('${user.id}')`;
+
                     html += `
                         <tr>
                             <td class="rank-num ${rankClass}">${index + 1}</td>
@@ -519,7 +655,10 @@
                             </td>
                             <td>${user.count}</td>
                             <td>${formatDate(user.last_seen)}</td>
-                            <td><a href="#" class="uid-link" onclick="loadUserProfile('${user.uid}')">${user.uid.substring(0, 8)}...</a></td>
+                            <td>
+                                <a href="#" class="uid-link" onclick="${clickAction}">${idDisplay}</a>
+                                <div style="font-size:10px; color:#9ca3af">${user.related_ids.length} ${relatedLabel}</div>
+                            </td>
                         </tr>
                     `;
                 });
@@ -530,6 +669,11 @@
             } catch (e) {
                 container.innerHTML = `エラー: ${e.message}`;
             }
+        }
+
+        function searchUserByEncip(encip) {
+            document.getElementById('uidInput').value = encip;
+            performSearch();
         }
 
         // Load Insights
@@ -597,6 +741,9 @@
         document.getElementById('uidInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') performSearch();
         });
+
+        // Set default date to today
+        setDatePreset('today');
     </script>
 </body>
 
