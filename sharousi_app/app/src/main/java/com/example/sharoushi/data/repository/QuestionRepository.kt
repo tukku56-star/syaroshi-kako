@@ -33,6 +33,10 @@ class QuestionRepository @Inject constructor(
         return subjectDao.observeAll()
     }
 
+    fun observeYears(subjectId: Int?): Flow<List<Int>> {
+        return questionDao.observeYears(subjectId)
+    }
+
     fun getQuestions(
         subjectId: Int? = null,
         minYear: Int? = null,
@@ -46,6 +50,15 @@ class QuestionRepository @Inject constructor(
         return questionDao.getWeakQuestions(days, minErrors)
     }
 
+    fun getBookmarkedQuestions(
+        subjectId: Int? = null,
+        minYear: Int? = null,
+        maxYear: Int? = null,
+        difficulty: String? = null
+    ): Flow<List<QuestionEntity>> {
+        return questionDao.getBookmarkedQuestions(subjectId, minYear, maxYear, difficulty)
+    }
+
     fun searchQuestions(rawQuery: String): Flow<List<QuestionEntity>> {
         val ftsQuery = buildFtsQuery(rawQuery) ?: return flowOf(emptyList())
         return questionDao.searchQuestions(ftsQuery)
@@ -53,9 +66,18 @@ class QuestionRepository @Inject constructor(
 
     suspend fun getRandomTestQuestions(
         subjectId: Int?,
+        minYear: Int?,
+        maxYear: Int?,
+        difficulty: String?,
         limit: Int = 10
     ): List<QuestionEntity> {
-        return questionDao.getRandomQuestions(subjectId, limit)
+        return questionDao.getRandomQuestions(
+            subjectId = subjectId,
+            minYear = minYear,
+            maxYear = maxYear,
+            difficulty = difficulty,
+            limit = limit
+        )
     }
 
     suspend fun submitAnswer(questionId: Int, userAnswer: Boolean): Boolean? {

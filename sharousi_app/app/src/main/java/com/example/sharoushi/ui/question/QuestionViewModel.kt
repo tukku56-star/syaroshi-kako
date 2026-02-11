@@ -18,11 +18,13 @@ import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOf
+import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.launch
 
 enum class StudyMode(val label: String) {
     NORMAL("一問一答"),
+    BOOKMARK("付箋出題"),
     WEAK("弱点出題"),
     SEARCH("検索"),
     TEST("実践テスト")
@@ -51,14 +53,14 @@ class QuestionViewModel @Inject constructor(
     private val _selectedSubjectId = MutableStateFlow<Int?>(null)
     val selectedSubjectId: StateFlow<Int?> = _selectedSubjectId
 
+    private val _selectedYear = MutableStateFlow<Int?>(null)
+    val selectedYear: StateFlow<Int?> = _selectedYear
+
+    private val _availableYears = MutableStateFlow<List<Int>>(emptyList())
+    val availableYears: StateFlow<List<Int>> = _availableYears
+
     private val _selectedDifficulty = MutableStateFlow<String?>(null)
     val selectedDifficulty: StateFlow<String?> = _selectedDifficulty
-
-    private val _minYear = MutableStateFlow<Int?>(null)
-    val minYear: StateFlow<Int?> = _minYear
-
-    private val _maxYear = MutableStateFlow<Int?>(null)
-    val maxYear: StateFlow<Int?> = _maxYear
 
     private val _searchQuery = MutableStateFlow("")
     val searchQuery: StateFlow<String> = _searchQuery
@@ -103,6 +105,7 @@ class QuestionViewModel @Inject constructor(
         .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), emptyList())
 
     private var questionsJob: Job? = null
+    private var yearsJob: Job? = null
 
     init {
         initialize()
@@ -120,17 +123,17 @@ class QuestionViewModel @Inject constructor(
 
     fun setSubject(subjectId: Int?) {
         _selectedSubjectId.value = subjectId
+        restartYearObserver()
+        restartQuestionObserver(resetIndex = true)
+    }
+
+    fun setYear(year: Int?) {
+        _selectedYear.value = year
         restartQuestionObserver(resetIndex = true)
     }
 
     fun setDifficulty(difficulty: String?) {
         _selectedDifficulty.value = difficulty
-        restartQuestionObserver(resetIndex = true)
-    }
-
-    fun setYearRange(minYear: Int?, maxYear: Int?) {
-        _minYear.value = minYear
-        _maxYear.value = maxYear
         restartQuestionObserver(resetIndex = true)
     }
 
@@ -204,6 +207,7 @@ class QuestionViewModel @Inject constructor(
             try {
                 repository.importDataIfNeeded()
                 observeSubjects()
+                restartYearObserver()
                 restartQuestionObserver(resetIndex = true)
             } catch (e: Exception) {
                 _loadError.value = e.message ?: "初期化に失敗しました"
@@ -217,6 +221,19 @@ class QuestionViewModel @Inject constructor(
         viewModelScope.launch {
             repository.observeSubjects().collect { list ->
                 _subjects.value = list
+            }
+        }
+    }
+
+    private fun restartYearObserver() {
+        yearsJob?.cancel()
+        yearsJob = viewModelScope.launch {
+            repository.observeYears(_selectedSubjectId.value).collect { years ->
+                _availableYears.value = years
+                if (_selectedYear.value != null && _selectedYear.value !in years) {
+                    _selectedYear.value = null
+                    restartQuestionObserver(resetIndex = true)
+                }
             }
         }
     }
@@ -241,36 +258,61 @@ class QuestionViewModel @Inject constructor(
     }
 
     private fun buildQuestionFlow(): Flow<List<QuestionEntity>> {
+        val year = _selectedYear.value
+        val subjectId = _selectedSubjectId.value
+        val difficulty = _selectedDifficulty.value
+
         return when (_mode.value) {
             StudyMode.NORMAL -> repository.getQuestions(
-                subjectId = _selectedSubjectId.value,
-                minYear = _minYear.value,
-                maxYear = _maxYear.value,
-                difficulty = _selectedDifficulty.value
+                subjectId = subjectId,
+                minYear = year,
+                maxYear = year,
+                difficulty = difficulty
+            )
+
+            StudyMode.BOOKMARK -> repository.getBookmarkedQuestions(
+                subjectId = subjectId,
+                minYear = year,
+                maxYear = year,
+                difficulty = difficulty
             )
 
             StudyMode.WEAK -> repository.getWeakQuestions(
                 days = _weakDays.value,
                 minErrors = _weakMinErrors.value
-            )
+            ).map { applyCommonFilters(it) }
 
             StudyMode.SEARCH -> {
                 val query = _searchQuery.value
                 if (query.isBlank()) {
                     flowOf(emptyList())
                 } else {
-                    repository.searchQuestions(query)
+                    repository.searchQuestions(query).map { applyCommonFilters(it) }
                 }
             }
 
             StudyMode.TEST -> flow {
                 emit(
                     repository.getRandomTestQuestions(
-                        subjectId = _selectedSubjectId.value,
+                        subjectId = subjectId,
+                        minYear = year,
+                        maxYear = year,
+                        difficulty = difficulty,
                         limit = 10
                     )
                 )
             }
+        }
+    }
+
+    private fun applyCommonFilters(source: List<QuestionEntity>): List<QuestionEntity> {
+        val subjectId = _selectedSubjectId.value
+        val year = _selectedYear.value
+        val difficulty = _selectedDifficulty.value
+        return source.filter { question ->
+            (subjectId == null || question.subjectId == subjectId) &&
+                (year == null || question.year == year) &&
+                (difficulty == null || question.difficulty == difficulty)
         }
     }
 }

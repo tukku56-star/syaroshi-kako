@@ -16,6 +16,14 @@ interface QuestionDao {
     suspend fun count(): Int
 
     @Query("""
+        SELECT DISTINCT year
+        FROM question
+        WHERE (:subjectId IS NULL OR subject_id = :subjectId)
+        ORDER BY year DESC
+    """)
+    fun observeYears(subjectId: Int?): Flow<List<Int>>
+
+    @Query("""
         SELECT * FROM question
         WHERE (:subjectId IS NULL OR subject_id = :subjectId)
         AND (:minYear IS NULL OR year >= :minYear)
@@ -33,13 +41,38 @@ interface QuestionDao {
     @Query("""
         SELECT * FROM question
         WHERE (:subjectId IS NULL OR subject_id = :subjectId)
+        AND (:minYear IS NULL OR year >= :minYear)
+        AND (:maxYear IS NULL OR year <= :maxYear)
+        AND (:difficulty IS NULL OR difficulty = :difficulty)
         ORDER BY RANDOM()
         LIMIT :limit
     """)
-    suspend fun getRandomQuestions(subjectId: Int?, limit: Int): List<QuestionEntity>
+    suspend fun getRandomQuestions(
+        subjectId: Int?,
+        minYear: Int?,
+        maxYear: Int?,
+        difficulty: String?,
+        limit: Int
+    ): List<QuestionEntity>
 
     @Query("SELECT * FROM question WHERE id = :questionId LIMIT 1")
     suspend fun getById(questionId: Int): QuestionEntity?
+
+    @Query("""
+        SELECT q.* FROM question q
+        INNER JOIN bookmark b ON q.id = b.question_id
+        WHERE (:subjectId IS NULL OR q.subject_id = :subjectId)
+        AND (:minYear IS NULL OR q.year >= :minYear)
+        AND (:maxYear IS NULL OR q.year <= :maxYear)
+        AND (:difficulty IS NULL OR q.difficulty = :difficulty)
+        ORDER BY b.created_at DESC, q.year DESC, q.question_num ASC, q.limb ASC
+    """)
+    fun getBookmarkedQuestions(
+        subjectId: Int?,
+        minYear: Int?,
+        maxYear: Int?,
+        difficulty: String?
+    ): Flow<List<QuestionEntity>>
 
     @Query("""
         SELECT q.* FROM question q

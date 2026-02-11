@@ -62,6 +62,8 @@ fun QuestionScreen(
     val mode by viewModel.mode.collectAsState()
     val subjects by viewModel.subjects.collectAsState()
     val selectedSubjectId by viewModel.selectedSubjectId.collectAsState()
+    val selectedYear by viewModel.selectedYear.collectAsState()
+    val availableYears by viewModel.availableYears.collectAsState()
     val selectedDifficulty by viewModel.selectedDifficulty.collectAsState()
     val searchQuery by viewModel.searchQuery.collectAsState()
     val weakDays by viewModel.weakDays.collectAsState()
@@ -70,6 +72,7 @@ fun QuestionScreen(
     val currentIndex by viewModel.currentIndex.collectAsState()
     val currentQuestion by viewModel.currentQuestion.collectAsState()
     val answerResult by viewModel.answerResult.collectAsState()
+    val bookmarkedQuestionIds by viewModel.bookmarkedQuestionIds.collectAsState()
     val isBookmarked by viewModel.isCurrentQuestionBookmarked.collectAsState()
     val subjectStats by viewModel.subjectStats.collectAsState()
     val dailyStats by viewModel.dailyStats.collectAsState()
@@ -179,6 +182,14 @@ fun QuestionScreen(
             }
 
             item {
+                YearSection(
+                    years = availableYears,
+                    selectedYear = selectedYear,
+                    onSelect = viewModel::setYear
+                )
+            }
+
+            item {
                 DifficultySection(
                     selectedDifficulty = selectedDifficulty,
                     onSelectDifficulty = viewModel::setDifficulty
@@ -259,6 +270,7 @@ fun QuestionScreen(
                         Text("解答数: $answeredTotal 問")
                         Text("正答率: ${"%.1f".format(accuracy)}%")
                         Text("学習日数: ${dailyStats.size} 日")
+                        Text("付箋数: ${bookmarkedQuestionIds.size} 件")
                     }
                 }
             }
@@ -336,6 +348,40 @@ private fun SubjectSection(
                     selected = selectedSubjectId == subject.id,
                     onClick = { onSelect(subject.id) },
                     label = { Text(subject.shortName) }
+                )
+            }
+        }
+    }
+}
+
+@Composable
+private fun YearSection(
+    years: List<Int>,
+    selectedYear: Int?,
+    onSelect: (Int?) -> Unit
+) {
+    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        Text(
+            text = "年度",
+            style = MaterialTheme.typography.titleSmall,
+            fontWeight = FontWeight.Bold
+        )
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .horizontalScroll(rememberScrollState()),
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            FilterChip(
+                selected = selectedYear == null,
+                onClick = { onSelect(null) },
+                label = { Text("すべて") }
+            )
+            years.forEach { year ->
+                FilterChip(
+                    selected = selectedYear == year,
+                    onClick = { onSelect(year) },
+                    label = { Text("${year}年") }
                 )
             }
         }
