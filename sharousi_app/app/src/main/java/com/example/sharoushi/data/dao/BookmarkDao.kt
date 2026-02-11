@@ -12,6 +12,12 @@ interface BookmarkDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun upsert(bookmark: BookmarkEntity)
 
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun upsertAll(bookmarks: List<BookmarkEntity>)
+
+    @Query("SELECT COUNT(*) FROM bookmark")
+    suspend fun count(): Int
+
     @Query("DELETE FROM bookmark WHERE question_id = :questionId")
     suspend fun deleteByQuestionId(questionId: Int)
 

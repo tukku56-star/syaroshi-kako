@@ -25,6 +25,12 @@ interface AnswerHistoryDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insert(entry: AnswerHistoryEntity)
 
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertAll(entries: List<AnswerHistoryEntity>)
+
+    @Query("SELECT COUNT(*) FROM answer_history")
+    suspend fun count(): Int
+
     @Query("""
         SELECT q.subject_id,
                COUNT(*) as total,

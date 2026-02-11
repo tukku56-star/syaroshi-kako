@@ -59,6 +59,21 @@ interface QuestionDao {
     suspend fun getById(questionId: Int): QuestionEntity?
 
     @Query("""
+        SELECT id FROM question
+        WHERE subject_id = :subjectId
+        AND year = :year
+        AND question_num = :questionNum
+        AND limb = :limb
+        LIMIT 1
+    """)
+    suspend fun findId(
+        subjectId: Int,
+        year: Int,
+        questionNum: Int,
+        limb: String
+    ): Int?
+
+    @Query("""
         SELECT q.* FROM question q
         INNER JOIN bookmark b ON q.id = b.question_id
         WHERE (:subjectId IS NULL OR q.subject_id = :subjectId)
