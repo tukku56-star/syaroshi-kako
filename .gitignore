@@ -1,55 +1,20 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
+# Android / Gradle
+.gradle/
+**/.gradle/
+build/
+**/build/
+*.apk
+*.aab
+
+# Local SDK settings
+local.properties
+**/local.properties
 
 # IDE
-.vscode/
 .idea/
-*.swp
-*.swo
-*~
+.vscode/
+*.iml
 
-# Logs
-data/logs/*.log
-*.log
-
-# Temporary files
-*.tmp
-*.bak
-*.old
-room_finder_temp_backup.py
-
-# Browser data
-debug_*.png
-debug_*.html
-
-# Artifacts (tracked separately)
-.gemini/
-
-# Keep non-app generated folders out of this repo
-.tmp.driveupload/
-archive/
-assets/
-binaries/
-data/
-debug_logs/
-docs/
-generated_artifacts/
-html/
-log/
-logs/
-python-3.13.1-embed-amd64/
-scripts/
-src/
-templates/
-リアルタイムチャットログビューアー_files/
-
-# System files
-Thumbs.db
+# OS
 .DS_Store
+Thumbs.db
