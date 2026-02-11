@@ -1,6 +1,0 @@
-{
-  "artifactType": "ARTIFACT_TYPE_WALKTHROUGH",
-  "summary": "Verification of parallel log collection bot and viewer. Bot successfully collecting logs from multiple rooms (44+ messages confirmed). Viewer server running but room list not displaying due to potential JavaScript loading issue. API endpoint confirmed working.",
-  "updatedAt": "2025-11-22T11:02:39.142438800Z",
-  "version": "4"
-}
